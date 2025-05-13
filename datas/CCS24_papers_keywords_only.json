@@ -1,0 +1,1712 @@
+[
+    {
+        "title": "Zero-Knowledge Proofs of Training for Deep Neural Networks",
+        "keywords": "Zero-Knowledge Proof (零知识证明) - 用于验证知识而不泄露信息\nDeep Neural Networks (深度神经网络) - 多层结构模型实现复杂模式识别\nGradient Descent Algorithm (梯度下降算法) - 优化模型参数的核心方法\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "密码学及应用"
+    },
+    {
+        "title": "Jager: Automated Telephone Call Traceback",
+        "keywords": "Call Traceback (电话追踪) - 快速定位电话滥用源头\nPrivacy Preservation (隐私保护) - 加密保障通话隐私安全\nWitness Encryption (见证加密) - 利用密码实现安全追溯",
+        "pub_year": "2024",
+        "theme_label": "网络与系统安全"
+    },
+    {
+        "title": "Evaluations of Machine Learning Privacy Defenses are Misleading",
+        "keywords": "Machine Learning Privacy (机器学习隐私) - 保护数据隐私的机器学习方法\nMembership Inference Attacks (成员推理攻击) - 推断数据是否参与模型训练\nDifferential Privacy (差分隐私) - 提供严格隐私保障的数学框架\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "Secure Sorting and Selection via Function Secret Sharing",
+        "keywords": "Function Secret Sharing (函数秘密共享) - 利用函数分片实现安全计算\nSecure Computation (安全计算) - 多方协作计算保护隐私\nSecret Sharing (秘密共享) - 数据分片存储保障安全性\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.2 安全多方计算"
+    },
+    {
+        "title": "Peeking through the window: Fingerprinting Browser Extensions through Page-Visible Execution Traces and Interactions",
+        "keywords": "Browser Fingerprinting (浏览器指纹识别) - 通过页面行为追踪扩展\nExtension Security (扩展安全性) - 防护机制存在缺陷\nJavaScript Namespace Pollution (JavaScript 命名空间污染) - 扩展代码干扰全局环境",
+        "pub_year": "2024",
+        "theme_label": "网络与系统安全"
+    },
+    {
+        "title": "Poster: FlashGuard: Real-time Disruption of Non-Price Flash Loan Attacks in DeFi",
+        "keywords": "Flash Loan Attacks (闪贷攻击) - 利用区块链原子性实施的金融攻击\nReal-time Detection (实时检测) - 在攻击发生前及时识别威胁\nSmart Contract Security (智能合约安全) - 保障去中心化应用逻辑安全\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "8.2 智能合约及安全"
+    },
+    {
+        "title": "Unbundle-Rewrite-Rebundle: Runtime Detection and Rewriting of Privacy-Harming Code in JavaScript Bundles",
+        "keywords": "JavaScript Bundles (JavaScript代码包) - 用于网页功能的脚本打包技术\nPrivacy-Harming Code (隐私危害代码) - 对用户隐私构成威胁的代码段\nRuntime Rewriting (运行时重写) - 在执行期间修改代码以保护隐私",
+        "pub_year": "2024",
+        "theme_label": "信息内容安全"
+    },
+    {
+        "title": "The Privacy-Utility Trade-off in the Topics API",
+        "keywords": "Topics API (主题API) - 用于广告兴趣识别的浏览器接口\n隐私-效用权衡 (Privacy-Utility Trade-off) - 平衡数据效用与用户隐私\n差分隐私 (Differential Privacy) - 严格隐私保护数学模型",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "Block Ciphers in Idealized Models: Automated Proofs and New Security Results",
+        "keywords": "Block Cipher (分组密码) - 加密算法核心结构\nIdealized Model (理想化模型) - 安全分析理论框架\nAutomated Proof (自动化证明) - 形式化验证新方法\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "2.2.1 密码体制安全模型"
+    },
+    {
+        "title": "Conditional Encryption with Applications to Secure Personalized Password Typo Correction",
+        "keywords": "Conditional Encryption (条件加密) - 基于条件控制的加密机制\nHomomorphic Encryption (同态加密) - 支持密文计算的加密方式\nPassword Typo Correction (密码容错校正) - 安全纠正密码输入错误的技术",
+        "pub_year": "2024",
+        "theme_label": "密码学及应用"
+    },
+    {
+        "title": "Blocking Tracking JavaScript at the Function Granularity",
+        "keywords": "Function-level tracking detection (函数级跟踪检测) - 细粒度识别脚本跟踪行为\nSurrogate script generation (代理脚本生成) - 替代脚本以保留功能去除追踪\nDynamic execution context analysis (动态执行上下文分析) - 分析运行时调用关系识别恶意行为\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "Poster: How Do Visually Impaired Users Navigate Accessibility Challenges in an Ad-Driven Web?",
+        "keywords": "Web Accessibility (网页可访问性) - 提升残障用户网络使用体验\nThird-Party Advertisements (第三方广告) - 广告内容影响网站合规性\nWCAG Compliance (WCAG合规性) - 评估网页内容无障碍标准",
+        "pub_year": "2024",
+        "theme_label": "人的安全行为与管理"
+    },
+    {
+        "title": "Precio: Private Aggregate Measurement via Oblivious Shuffling",
+        "keywords": "Secure Aggregation (安全聚合) - 隐私保护下的数据汇总\nDifferential Privacy (差分隐私) - 数据统计中的隐私保障\nOblivious Shuffling (无感知洗牌) - 隐私计算中的数据重排\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "Defying the Odds: Solana's Unexpected Resilience in Spite of the Security Challenges Faced by Developers",
+        "keywords": "Smart Contract Security (智能合约安全) - 保障合约代码安全性\nDeveloper Behavior Analysis (开发者行为分析) - 研究开发过程中的安全决策\nBlockchain Frameworks Evaluation (区块链框架评估) - 分析框架对安全性的影响",
+        "pub_year": "2024",
+        "theme_label": "8.2 智能合约及安全"
+    },
+    {
+        "title": "Practical Post-Quantum Signatures for Privacy",
+        "keywords": "Post-Quantum Cryptography (后量子密码学) - 研究抗量子计算的密码机制\nBlind Signatures (盲签名) - 实现匿名与隐私保护的签名技术\nAnonymous Credentials (匿名凭证) - 提供身份匿名认证的安全系统",
+        "pub_year": "2024",
+        "theme_label": "密码学及应用"
+    },
+    {
+        "title": "Demo: Towards Reproducible Evaluations of ML-Based IDS Using Data-Driven Approaches",
+        "keywords": "Machine Learning-based Intrusion Detection (基于机器学习的入侵检测) - 基于ML模型识别网络攻击\nEvaluation Framework (评估框架) - 标准化评测ML-IDSS性能\nData-Driven Approach (数据驱动方法) - 依赖真实数据优化检测效果\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.8.2 系统安全测评"
+    },
+    {
+        "title": "AirGapAgent: Protecting Privacy-Conscious Conversational Agents",
+        "keywords": "Contextual Integrity (情境完整性) - 隐私保护的核心理论\nAirGapAgent (空气间隙代理) - 限制数据访问的隐私代理\nContext Hijacking Attack (上下文劫持攻击) - 操纵上下文窃取隐私",
+        "pub_year": "2024",
+        "theme_label": "人工智能安全"
+    },
+    {
+        "title": "Mithridates: Auditing and Boosting Backdoor Resistance of Machine Learning Pipelines",
+        "keywords": "Backdoor Resistance (后门鲁棒性) - 防御训练数据中毒攻击的能力\nTraining Pipeline Audit (训练流程审计) - 评估机器学习流程安全性\nHyperparameter Optimization (超参数优化) - 平衡模型准确率与安全性的配置搜索",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "ALCHEMY: Data-Free Adversarial Training",
+        "keywords": "Adversarial Training (对抗训练) - 提升模型抗攻击能力\nData-Free Learning (无数据学习) - 无需原始数据的模型训练\nModel Robustness (模型鲁棒性) - 增强模型稳定性与安全性",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials",
+        "keywords": "Zero-Knowledge Proof (零知识证明) - 隐私保护的身份验证技术\nBlockchain Authentication (区块链认证) - 基于链的身份验证机制\nDigital Identity Reuse (数字身份复用) - 利用现有身份进行认证\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "身份认证与管理"
+    },
+    {
+        "title": "Poster: PGPNet: Classify APT Malware Using Prediction-Guided Prototype Network",
+        "keywords": "Prediction-Guided Prototype Network (预测引导原型网络) - 元学习架构分类方法\nAPT Malware Classification (APT恶意软件分类) - 高级持续威胁分组识别\nAuxiliary Task Learning (辅助任务学习) - 多任务优化特征表示\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.7 恶意代码分析与防护"
+    },
+    {
+        "title": "No Peer, no Cry: Network Application Fuzzing via Fault Injection",
+        "keywords": "Network Application Fuzzing (网络应用模糊测试) - 通过故障注入发现漏洞\nFault Injection (故障注入) - 引发异常状态以检测缺陷\nStateful Communication Testing (有状态通信测试) - 验证协议交互安全性\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.8.1 漏洞挖掘与逆向分析"
+    },
+    {
+        "title": "Testing Side-channel Security of Cryptographic Implementations against Future Microarchitectures",
+        "keywords": "Side-channel Security (侧信道安全) - 防范通过非内容途径泄密\nMicroarchitectural Optimizations (微架构优化) - 提升性能可能引入风险\nCryptographic Implementations (密码实现) - 安全性受硬件变化影响\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "2.4 密码工程技术"
+    },
+    {
+        "title": "RANsacked: A Domain-Informed Approach for Fuzzing LTE and 5G RAN-Core Interfaces",
+        "keywords": "Fuzzing (模糊测试) - 针对输入的自动化漏洞挖掘\nRAN-Core Interfaces (无线接入网-核心网接口) - 5G/LTE网络关键通信路径\nASN.1 Specifications (抽象语法标记一规范) - 定义通信协议数据结构的标准",
+        "pub_year": "2024",
+        "theme_label": "网络通信安全 (含 5/6G)"
+    },
+    {
+        "title": "New Secret Keys for Enhanced Performance in (T)FHE",
+        "keywords": "Fully Homomorphic Encryption (全同态加密) - 加密数据直接计算技术\nSecret Key Optimization (秘密密钥优化) - 提升加密效率与安全性\nCryptosystem Performance (密码系统性能) - 改进算法运行效率",
+        "pub_year": "2024",
+        "theme_label": "6.3 同态加密"
+    },
+    {
+        "title": "Understanding Routing-Induced Censorship Changes Globally",
+        "keywords": "Internet Censorship (互联网审查) - 研究网络内容限制机制\nECMP Routing (等价多路径路由) - 分析路由导致的审查差异\nMeasurement Methodology (测量方法论) - 提升审查测量可靠性",
+        "pub_year": "2024",
+        "theme_label": "网络通信安全 (含 5/6G)"
+    },
+    {
+        "title": "The Illusion of Randomness: An Empirical Analysis of Address Space Layout Randomization Implementations",
+        "keywords": "Address Space Layout Randomization (地址空间布局随机化) - 内存布局防御机制\nOperating System Security (操作系统安全) - 系统防护能力评估\nEntropy Reduction Analysis (熵减分析) - 随机性削弱研究",
+        "pub_year": "2024",
+        "theme_label": "系统安全测评"
+    },
+    {
+        "title": "Sui Lutris: A Blockchain Combining Broadcast and Consensus",
+        "keywords": "Consensusless Agreement (无共识协议) - 无需共识的分布式一致性\nHybrid Blockchain Architecture (混合区块链架构) - 结合广播与共识的链结构\nSub-Second Finality (亚秒级最终性) - 交易确认延迟低于一秒",
+        "pub_year": "2024",
+        "theme_label": "区块链及安全"
+    },
+    {
+        "title": "Cryptography and Computer Security: A View From the Year 2100",
+        "keywords": "Cryptography (密码学) - 研究信息加密与解密技术\nComputer Security (计算机安全) - 保障计算系统免受攻击与破坏\nFuture Perspective (未来视角) - 展望长期技术发展与趋势\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "2、密码学及应用"
+    },
+    {
+        "title": "Poster: TAPChecker: Model Checking in Trigger-Action Rules Generation Using Large Language Models",
+        "keywords": "Trigger-Action Programming (触发-动作编程) - 智能家居自动化规则生成\nLarge Language Models (大型语言模型) - 用于生成TAP规则\nFormal Verification (形式化验证) - 验证规则安全性\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "RESPIRE: High-Rate PIR for Databases with Small Records",
+        "keywords": "Private Information Retrieval (私有信息检索) - 隐私保护的数据查询方法\nHomomorphic Encryption (同态加密) - 支持密文计算的加密技术\nLattice-based Cryptography (基于格的密码学) - 抗量子的密码系统设计\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "Poster: Kill Krill or Proxy RPKI",
+        "keywords": "Resource Public Key Infrastructure (资源公钥基础设施) - 路由安全认证机制\nPublication Point Security (发布点安全) - 存储与分发证书的安全性\nDenial-of-Service Vulnerability (拒绝服务漏洞) - 导致性能降级的攻击方式",
+        "pub_year": "2024",
+        "theme_label": "网络基础设施安全"
+    },
+    {
+        "title": "μCFI: Formal Verification of Microarchitectural Control-flow Integrity",
+        "keywords": "Control-Flow Integrity (控制流完整性) - 保障程序执行路径不被篡改\nFormal Verification (形式化验证) - 数学证明系统满足安全属性\nMicroarchitectural Security (微架构安全) - 防止硬件层面信息泄露与攻击\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.2 硬件安全"
+    },
+    {
+        "title": "Call Me By My Name: Simple, Practical Private Information Retrieval for Keyword Queries",
+        "keywords": "Private Information Retrieval (私有信息检索) - 隐私保护的数据查询技术\nKeyword Search (关键词搜索) - 支持关键字的高效检索方法\nLearning With Errors (误差学习问题) - 基于格的密码学基础\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "Poster: YFuzz: Data-Driven Fuzzing",
+        "keywords": "Fuzzing (模糊测试) - 通过输入变异发现漏洞\nValue State Coverage (值状态覆盖) - 覆盖变量值及执行顺序\nData-Driven Fuzzing (数据驱动模糊测试) - 利用运行时数据引导测试",
+        "pub_year": "2024",
+        "theme_label": "系统安全测评"
+    },
+    {
+        "title": "VERITAS: Plaintext Encoders for Practical Verifiable Homomorphic Encryption",
+        "keywords": "Homomorphic Encryption (同态加密) - 支持密文直接计算\nVerifiable Computation (可验证计算) - 确保计算结果正确性\nPrivacy-Preserving Analytics (隐私保护分析) - 在加密数据上执行安全分析",
+        "pub_year": "2024",
+        "theme_label": "6.3 同态加密"
+    },
+    {
+        "title": "BlueSWAT: A Lightweight State-Aware Security Framework for Bluetooth Low Energy",
+        "keywords": "Bluetooth Low Energy (蓝牙低功耗) - 短距离无线通信技术\nSession-based Attacks (基于会话的攻击) - 利用会话流程漏洞进行攻击\nState-aware Security Framework (状态感知安全框架) - 基于状态监测的安全防护机制",
+        "pub_year": "2024",
+        "theme_label": "网络与系统安全"
+    },
+    {
+        "title": "Poster: A Full-stack Secure Deletion Framework for Modern Computing Devices",
+        "keywords": "Secure deletion (安全删除) - 数据彻底清除技术\nFull-stack design (全栈设计) - 覆盖软硬件整体架构\nData privacy protection (数据隐私保护) - 保障用户信息不泄露\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "Manipulating OpenFlow Link Discovery Packet Forwarding for Topology Poisoning",
+        "keywords": "Topology Poisoning (拓扑中毒) - 操纵网络拓扑信息以破坏管理\nOpenFlow (开放流协议) - SDN中控制数据转发的核心协议\nReinforcement Learning (强化学习) - 通过试错优化决策的AI方法",
+        "pub_year": "2024",
+        "theme_label": "网络与系统安全"
+    },
+    {
+        "title": "Evolving Network Security in the Era of Network Programmability",
+        "keywords": "Software-Defined Networking (软件定义网络) - 网络架构与安全控制\nNetwork Security Policy (网络安全策略) - 安全规则与漏洞防护\nP4 Programming for Network Monitoring (P4编程用于网络监控) - 可编程数据面安全增强",
+        "pub_year": "2024",
+        "theme_label": "3.1 网络与系统安全体系结构"
+    },
+    {
+        "title": "The Janus Interface: How Fine-Tuning in Large Language Models Amplifies the Privacy Risks",
+        "keywords": "Privacy Leakage (隐私泄露) - 大模型训练数据中的敏感信息暴露\nFine-Tuning Interface (微调接口) - 利用模型微调机制实施攻击的途径\nLanguage Model Attack (语言模型攻击) - 针对大语言模型的隐私提取攻击方法",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "Catch Me if You Can: Detecting Unauthorized Data Use in Training Deep Learning Models",
+        "keywords": "Membership Inference (成员推理攻击) - 推断数据是否参与训练\nData Provenance Tracking (数据溯源追踪) - 追踪数据使用来源\nModel Memorization (模型记忆效应) - 模型对数据的记忆程度",
+        "pub_year": "2024",
+        "theme_label": "人工智能安全"
+    },
+    {
+        "title": "Attacks Against the IND-CPAD Security of Exact FHE Schemes",
+        "keywords": "Fully Homomorphic Encryption (全同态加密) - 支持密文直接计算\nIND-CPA(D) Security (选择性密文不可区分性安全) - 抗选择性解密攻击\nCorrectness Vulnerability (正确性漏洞) - 利用解密错误实施攻击",
+        "pub_year": "2024",
+        "theme_label": "密码学及应用"
+    },
+    {
+        "title": "Quarantined-TreeKEM: A Continuous Group Key Agreement for MLS, Secure in Presence of Inactive Users",
+        "keywords": "Continuous Group Key Agreement (连续群密钥协商) - 群组密钥动态更新机制\nPost-Compromise Security (抗泄露安全) - 密钥泄露后仍能保障安全\nSecret Sharing Scheme (秘密共享方案) - 分布存储密钥提升安全性",
+        "pub_year": "2024",
+        "theme_label": "密码学及应用"
+    },
+    {
+        "title": "I Had Sort of a Sense that IWas Always BeingWatched ... Since I Was: Examining Interpersonal Discomfort From Continuous Location-Sharing Applications",
+        "keywords": "Continuous Location Sharing (连续位置共享) - 地理位置实时共享应用\nInterpersonal Discomfort (人际不适感) - 人际关系中的心理不安\nPrivacy Concerns (隐私担忧) - 对个人信息泄露的忧虑",
+        "pub_year": "2024",
+        "theme_label": "人的安全行为与管理"
+    },
+    {
+        "title": "Fast and Accurate Homomorphic Softmax Evaluation",
+        "keywords": "Homomorphic Encryption (同态加密) - 隐私保护下的密文计算\nNeural Network Inference (神经网络推理) - 加密数据上的模型推断\nSoftmax Function Evaluation (Softmax函数评估) - 神经网络关键激活函数计算\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.3 同态加密"
+    },
+    {
+        "title": "Poster: Privacy Norms for Fertility Data in the Roe v. Wade era",
+        "keywords": "Fertility Data (生育数据) - 健康隐私信息\nPrivacy Norms (隐私规范) - 行为准则框架\nUser Concerns (用户担忧) - 数据安全感知",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "A Causal Explainable Guardrails for Large Language Models",
+        "keywords": "Causal Analysis (因果分析) - 探究变量间因果关系\nAdversarial Learning (对抗学习) - 利用对抗样例提升鲁棒性\nBias Mitigation (偏差缓解) - 减少模型中的语义偏见",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "On the Tight Security of the Double Ratchet",
+        "keywords": "Double Ratchet (双棘轮协议) - 密钥协商与消息加密机制\nSecurity Bound (安全界) - 安全性证明的量化分析\nKey Encapsulation Mechanism (密钥封装机制) - 公钥加密中的密钥传输方案\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "2.2.1 密码体制安全模型"
+    },
+    {
+        "title": "Keeping Up with the KEMs: Stronger Security Notions for KEMs and Automated Analysis of KEM-based Protocols",
+        "keywords": "Key Encapsulation Mechanism (KEM) - 密钥封装机制\nSecurity Notions (安全概念) - 安全模型定义\nSymbolic Analysis (符号分析) - 协议自动验证",
+        "pub_year": "2024",
+        "theme_label": "密码学及应用"
+    },
+    {
+        "title": "Asynchronous Consensus without Trusted Setup or Public-Key Cryptography",
+        "keywords": "Asynchronous Consensus (异步共识) - 分布式系统达成一致\nByzantine Fault Tolerance (拜占庭容错) - 抵抗恶意节点的协议设计\nCryptographic Hash Functions (密码学哈希函数) - 安全通信的基础工具\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "8.1 共识机制及安全"
+    },
+    {
+        "title": "Poster: A Secure Multiparty Computation Platform for Squeaky-Clean Data Rooms",
+        "keywords": "Secure Multiparty Computation (安全多方计算) - 多方协同计算隐私保护\nHomomorphic Encryption (同态加密) - 数据加密后仍可计算\nPrivacy-Preserving Data Collaboration (隐私保护数据协作) - 保障隐私的数据合作\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.2 安全多方计算"
+    },
+    {
+        "title": "Poster: Byzantine Discrepancy Attacks against Calendar, Set-intersection and Nations",
+        "keywords": "Byzantine Attack (拜占庭攻击) - 分布式系统容错核心问题\nPrivate Set Intersection (私有集合交集) - 隐私保护下的集合运算\nCommunication Security (通信安全) - 保障信息传输过程安全",
+        "pub_year": "2024",
+        "theme_label": "网络与系统安全"
+    },
+    {
+        "title": "Protoss Protocol for Tight Optimal Symmetric Security",
+        "keywords": "Balanced PAKE Protocol (平衡PAKE协议) - 密钥交换协议设计\nOptimal Communication Efficiency (最优通信效率) - 降低传输开销\nTight Security Reduction (紧密安全归约) - 提升安全性保障",
+        "pub_year": "2024",
+        "theme_label": "密码学及应用"
+    },
+    {
+        "title": "Poster: DoHunter: A feature fusion-based LLM for DoH tunnel detection",
+        "keywords": "DoH Tunnel Detection (DNS over HTTPS隧道检测) - 检测加密DNS中的隐蔽通信\nLLM-based Traffic Analysis (基于大语言模型的流量分析) - 利用LLM理解复杂加密流量模式\nFeature Fusion (特征融合) - 结合专家特征与模型提升检测精度\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "4.9 加密流量识别与密态对抗"
+    },
+    {
+        "title": "Novel Privacy Attacks and Defenses Against Neural Networks",
+        "keywords": "Model Inversion Attack (模型反转攻击) - 通过模型推断训练数据\nPrivacy Defense (隐私防御) - 防御隐私泄露技术\nNeural Network Security (神经网络安全) - 保障模型隐私与安全\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "Poster: libdebug, Build Your Own Debugger for a Better (Hello) World",
+        "keywords": "Programmatic Debugging (程序化调试) - 自动化调试工具开发\nUserland Binary Analysis (用户态二进制分析) - 分析非内核级程序行为\nReverse Engineering Tool (逆向工程工具) - 支持安全与软件逆向分析\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.8.1 漏洞挖掘与逆向分析"
+    },
+    {
+        "title": "Understanding Implosion in Text-to-Image Generative Models",
+        "keywords": "Text-to-Image Generative Models (文本到图像生成模型) - 生成模型安全研究\nPoisoning Attacks (投毒攻击) - 恶意数据污染训练过程\nCross-Attention Mechanism (交叉注意力机制) - 多模态对齐与关联建模",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "Scalable Equi-Join Queries over Encrypted Database",
+        "keywords": "Encrypted Database (加密数据库) - 支持加密数据的安全存储与查询\nEqui-Join Query (等值连接查询) - 实现多表安全高效数据关联\nScalable Join Protocol (可扩展连接协议) - 提升多表连接性能与适用性\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "密码学及应用"
+    },
+    {
+        "title": "Non-Transferable Anonymous Tokens by Secret Binding",
+        "keywords": "Anonymous Tokens (匿名凭证) - 匿名访问控制机制\nNon-Transferability (不可转让性) - 防止凭证非法转移\nSecret Binding (秘密绑定) - 绑定身份与凭证\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "2.5 密码应用技术"
+    },
+    {
+        "title": "Batching-Efficient RAM using Updatable Lookup Arguments",
+        "keywords": "RAM (随机存取存储器) - 可高效验证计算的内存模型\nLookup Arguments (查找论证) - 支持高效数据查询与更新\nSublinear Complexity (次线性复杂度) - 算法成本低于线性增长",
+        "pub_year": "2024",
+        "theme_label": "密码学及应用"
+    },
+    {
+        "title": "Secret Sharing with Snitching",
+        "keywords": "Secret Sharing with Snitching (带告密的秘密共享) - 防止股东合谋泄密\nIndividual Cryptography (个体密码学) - 单机易多机难的计算任务\nMulti-Party Computation Security (多方计算安全) - 抵御恶意协议攻击\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "2.2.2 密码原语和范式"
+    },
+    {
+        "title": "Multi-Verifier Zero-Knowledge Proofs for Any Constant Fraction of Corrupted Verifiers",
+        "keywords": "Multi-Verifier Zero-Knowledge (多验证者零知识证明) - 多方验证下的隐私保护协议\nPreprocessing Model (预处理模型) - 提升效率的离线计算阶段\nCorruption Tolerance (腐败容忍) - 容纳恶意合谋的安全机制",
+        "pub_year": "2024",
+        "theme_label": "密码学及应用"
+    },
+    {
+        "title": "Password-Protected Key Retrieval with(out) HSM Protection",
+        "keywords": "Password-Protected Key Retrieval (密码保护的密钥检索) - 基于密码的安全密钥获取\nHardware Security Module (硬件安全模块) - 提供密钥存储与计算保护\nProvable Security (可证安全) - 形式化验证协议安全性\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "2.3.2 密码协议设计与分析"
+    },
+    {
+        "title": "Byzantine-Robust Decentralized Federated Learning",
+        "keywords": "Decentralized Federated Learning (去中心化联邦学习) - 基于对等网络的协同模型训练\nByzantine-Robustness (拜占庭容错) - 防御恶意节点攻击的能力\nPoisoning Attacks (投毒攻击) - 恶意模型破坏训练过程",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "Zero-Query Adversarial Attack on Black-box Automatic Speech Recognition Systems",
+        "keywords": "Zero-Query Adversarial Attack (零查询对抗攻击) - 无需查询的对抗样本攻击方法\nBlack-box Automatic Speech Recognition (黑盒自动语音识别) - 目标系统不可见的语音识别攻击\nTransfer-based Attack (基于迁移的攻击) - 利用代理模型生成可迁移对抗样本",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "Real-World Universal zkSNARKs are Non-Malleable",
+        "keywords": "zkSNARKs (零知识简洁非交互式知识证明) - 隐私保护密码协议\nSimulation Extractability (模拟可提取性) - 安全性保证核心属性\nUniversal zkSNARKs (通用零知识证明系统) - 支持多方高效验证\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "2.1.2 计算数论"
+    },
+    {
+        "title": "Scalable and Adaptively Secure Any-Trust Distributed Key Generation and All-hands Checkpointing",
+        "keywords": "Distributed Key Generation (分布式密钥生成) - 用于多方协同生成加密密钥\nAdaptive Security (自适应安全) - 安全机制动态抵御节点攻击\nBlockchain Checkpointing (区块链检查点) - 提升链安全性与状态一致性",
+        "pub_year": "2024",
+        "theme_label": "8.1 共识机制及安全"
+    },
+    {
+        "title": "Uncovering Gradient Inversion Risks in Practical Language Model Training",
+        "keywords": "Gradient Inversion Attack (梯度反转攻击) - 联邦学习隐私威胁\nFederated Learning (联邦学习) - 分布式模型训练方法\nLanguage Model Privacy (语言模型隐私) - 文本数据隐私保护\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "Bytes to Schlep? Use a FEP: Hiding Protocol Metadata with Fully Encrypted Protocols",
+        "keywords": "Fully Encrypted Protocols (完全加密协议) - 隐藏元数据的通信协议\nMetadata Protection (元数据保护) - 保障通信内容特征不泄露\nProtocol Indistinguishability (协议不可区分性) - 协议类型难以被识别\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "2.5 网络系统安全应用"
+    },
+    {
+        "title": "ThorPIR: Single Server PIR via Homomorphic Thorp Shuffles",
+        "keywords": "Private Information Retrieval (私有信息检索) - 保护用户查询隐私\nHomomorphic Encryption (同态加密) - 支持密文计算的加密方法\nThorp Shuffle (托普洗牌算法) - 用于轻量级安全混洗操作\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "Fake It till You Make It: Enhancing Security of Bluetooth Secure Connections via Deferrable Authentication",
+        "keywords": "Bluetooth Security (蓝牙安全) - 保障无线连接协议安全\nAuthentication Protocol (认证协议) - 验证身份确保通信可信\nKey Negotiation (密钥协商) - 安全交换加密通信密钥\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "网络与系统安全"
+    },
+    {
+        "title": "Byzantine-Secure Relying Party for Resilient RPKI",
+        "keywords": "Byzantine Fault Tolerance (拜占庭容错) - 分布式系统容错机制\nRPKI Validation (RPKI验证) - 互联网路由路径验证\nConsensus Protocol (共识协议) - 多节点协同决策机制",
+        "pub_year": "2024",
+        "theme_label": "网络基础设施安全"
+    },
+    {
+        "title": "Detecting Tunneled Flooding Traffic via Deep Semantic Analysis of Packet Length Patterns",
+        "keywords": "Tunneled Flooding Traffic (隐蔽隧道泛洪流量) - 指加密隧道中的攻击流量\nDeep Semantic Analysis (深度语义分析) - 利用语义特征识别攻击模式\nPacket Length Patterns (数据包长度模式) - 分析长度特征检测异常流量\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.9 攻击防御"
+    },
+    {
+        "title": "Poster: Enhance Hardware Domain Specific Large Language Model with Reinforcement Learning for Resilience",
+        "keywords": "Reinforcement Learning (强化学习) - 通过反馈优化模型决策能力\nHardware Design (硬件设计) - 涉及芯片与系统结构设计\nSide-channel Attacks (侧信道攻击) - 利用物理信息进行安全攻击\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "Benchmarking Secure Sampling Protocols for Differential Privacy",
+        "keywords": "Differential Privacy (差分隐私) - 隐私保护数据分析方法\nSecure Multi-party Computation (安全多方计算) - 多方协同隐私保护协议\nBenchmarking Protocols (基准测试协议) - 协议性能与安全性评估\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "Secure Vickrey Auctions with Rational Parties",
+        "keywords": "Secure Auctions (安全拍卖) - 确保护理拍卖过程隐私\nRational Parties (理性参与方) - 基于效用最大化的自利行为\nPrivacy-Preserving Protocols (隐私保护协议) - 保障数据机密性的协议设计\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "Graphical vs. Deep Generative Models: Measuring the Impact of Differentially Private Mechanisms and Budgets on Utility",
+        "keywords": "Differential Privacy (差分隐私) - 隐私保护数据发布技术\nGenerative Models (生成模型) - 用于合成数据建模的方法\nPrivacy-Utility Tradeoff (隐私-效用权衡) - 平衡隐私保护与数据可用性\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "Efficient Scalable Multi-Party Private Set Intersection(-Variants) from Bicentric Zero-Sharing",
+        "keywords": "Multi-Party Private Set Intersection (多方私有集合交集) - 隐私保护下的集合交集计算\nBicentric Zero-Sharing (双中心零共享) - 用于简化多方协议的密码学原语\nOblivious Key-Value Store ( oblivious键值存储) - 支持隐私数据检索的数据结构",
+        "pub_year": "2024",
+        "theme_label": "安全多方计算"
+    },
+    {
+        "title": "Computationally Secure Aggregation and Private Information Retrieval in the Shuffle Model",
+        "keywords": "Secure Aggregation (安全聚合) - 多方计算中隐私保护求和技术\nPrivate Information Retrieval (私密信息检索) - 用户从数据库私密查询数据\nShuffle Model (洗牌模型) - 基于匿名通信的隐私计算框架\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "密码学及应用"
+    },
+    {
+        "title": "SemPat: From Hyperproperties to Attack Patterns for Scalable Analysis of Microarchitectural Security",
+        "keywords": "Hyperproperty (超属性) - 形式化安全性质\nAttack Pattern (攻击模式) - 漏洞利用特征\nMicroarchitectural Security (微架构安全) - 硬件层级防护\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.2 硬件安全"
+    },
+    {
+        "title": "Dora: A Simple Approach to Zero-Knowledge for RAM Programs",
+        "keywords": "Zero-Knowledge Proof (零知识证明) - 隐私保护的密码学协议\nRAM Program Verification (RAM程序验证) - 验证程序执行正确性\nHomomorphic Commitments (同态承诺) - 支持运算的数据加密技术\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "2.2.2 密码原语和范式"
+    },
+    {
+        "title": "Demo: FT-PrivacyScore: Personalized Privacy Scoring Service for Machine Learning Participation",
+        "keywords": "Privacy Scoring (隐私评分) - 量化参与机器学习的隐私风险\nMachine Learning Participation (机器学习参与) - 数据贡献者参与模型训练的过程\nControlled Data Access (受控数据访问) - 限制环境下的数据使用以保护隐私\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "Characterizing Ethereum Address Poisoning Attack",
+        "keywords": "Address Poisoning Attack (地址投毒攻击) - 针对区块链地址的钓鱼攻击\nEthereum Blockchain Security (以太坊区块链安全) - 保障以太坊链上资产与交易安全\nPhishing Detection System (钓鱼检测系统) - 用于识别恶意地址与交易行为\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "8.2 智能合约及安全"
+    },
+    {
+        "title": "Understanding Legal Professionals' Practices and Expectations in Data Breach Incident Reporting",
+        "keywords": "Data Breach Incident Reporting (数据泄露事件报告) - 事件响应与合规分析\nLegal Compliance Analysis (法律合规分析) - 隐私法规遵循评估\nPrivacy-related Items Identification (隐私相关项识别) - 判定隐私保护内容",
+        "pub_year": "2024",
+        "theme_label": "1.6 人的安全行为与管理"
+    },
+    {
+        "title": "Obfuscated Key Exchange",
+        "keywords": "Obfuscated Key Exchange (混淆密钥交换) - 用于抗审查的加密通信\nFully Encrypted Protocol (全加密协议) - 流量特征与随机无异\nQuantum-Safe Cryptography (量子安全密码学) - 抵抗量子计算攻击\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "2.3.2 密码协议设计与分析"
+    },
+    {
+        "title": "A Qualitative Analysis of Practical De-Identification Guides",
+        "keywords": "De-identification (去标识化) - 数据匿名化处理方法\nPrivacy Protection (隐私保护) - 保障个人信息安全\nGuide Usability (指南可用性) - 提升实践指导效果",
+        "pub_year": "2024",
+        "theme_label": "数据隐私保护"
+    },
+    {
+        "title": "REACTAPPSCAN: Mining React Application Vulnerabilities via Component Graph",
+        "keywords": "Vulnerability Detection (漏洞检测) - 程序安全缺陷识别\nComponent Graph (组件图) - 组件间数据流动建模\nData Flow Tracking (数据流跟踪) - 数据传播路径分析\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.8.1 漏洞挖掘与逆向分析"
+    },
+    {
+        "title": "Organic or Diffused: Can We Distinguish Human Art from AI-generated Images?",
+        "keywords": "AI-generated Image Detection (AI生成图像检测) - 识别图像是否由AI生成\nHuman Art Authentication (人类艺术认证) - 鉴别艺术作品的人工属性\nAdversarial Robustness (对抗鲁棒性) - 提升检测在对抗环境下的稳定性",
+        "pub_year": "2024",
+        "theme_label": "信息内容安全"
+    },
+    {
+        "title": "Rules Refine the Riddle: Global Explanation for Deep Learning-Based Anomaly Detection in Security Applications",
+        "keywords": "Global Explanation (全局解释) - 提供模型整体决策逻辑\nAnomaly Detection (异常检测) - 识别安全领域的异常行为\nRule Extraction (规则提取) - 从模型中提炼可解释规则",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "Not One Less: Exploring Interplay between User Profiles and Items in Untargeted Attacks against Federated Recommendation",
+        "keywords": "Federated Recommendation (联邦推荐) - 个性化推荐隐私保护\nPoisoning Attacks (投毒攻击) - 恶意数据破坏模型训练\nAttack Defense (攻击防御) - 防御恶意攻击方法",
+        "pub_year": "2024",
+        "theme_label": "攻击防御"
+    },
+    {
+        "title": "Rhombus: Fast Homomorphic Matrix-Vector Multiplication for Secure Two-Party Inference",
+        "keywords": "Homomorphic Encryption (同态加密) - 支持密文计算的加密技术\nSecure Two-Party Computation (安全两方计算) - 双方私密数据协同处理协议\nPrivacy-Preserving Machine Learning (隐私保护机器学习) - 保护数据隐私的ML方法",
+        "pub_year": "2024",
+        "theme_label": "6.3 同态加密"
+    },
+    {
+        "title": "MGTBench: Benchmarking Machine-Generated Text Detection",
+        "keywords": "Machine-Generated Text Detection (机器生成文本检测) - 识别文本是否由模型生成\nBenchmark Framework (基准框架) - 提供统一评估标准与方法\nText Attribution (文本溯源) - 判定文本来源模型或作者类型\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "Is Difficulty Calibration AllWe Need? Towards More Practical Membership Inference Attacks",
+        "keywords": "Membership Inference Attack (成员推理攻击) - 隐私泄露分析\nDifficulty Calibration (难度校准) - 提高攻击准确性\nRAPID Attack Method (RAPID攻击方法) - 高效攻击设计",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "The Harder You Try, The Harder You Fail: The KeyTrap Denial-of-Service Algorithmic Complexity Attacks on DNSSEC",
+        "keywords": "DNSSEC (域名系统安全扩展) - 确保域名解析安全的协议\nAlgorithmic Complexity Attack (算法复杂度攻击) - 利用计算资源耗尽实施攻击\nDenial of Service (拒绝服务) - 阻断正常服务请求的攻击方式",
+        "pub_year": "2024",
+        "theme_label": "网络与系统安全"
+    },
+    {
+        "title": "The Insecurity of Masked Comparisons: SCAs on ML-KEM's FO-Transform",
+        "keywords": "Side-channel Attacks (侧信道攻击) - 利用物理泄露信息破解系统\nMasked Comparison (掩码比较) - 防止信息泄露的计算方法\nML-KEM Security (ML-KEM安全) - 后量子密码嵌入式防护\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "2.4 密码工程技术"
+    },
+    {
+        "title": "Selling Satisfaction: A Qualitative Analysis of Cybersecurity Awareness Vendors' Promises",
+        "keywords": "Security Awareness Training (安全意识培训) - 提升员工网络安全认知\nVendor Promises (供应商承诺) - 分析营销宣传与实际差距\nHuman-Centered Security (以人为本的安全) - 关注用户角色与行为",
+        "pub_year": "2024",
+        "theme_label": "1.6 人的安全行为与管理"
+    },
+    {
+        "title": "End-to-End Encrypted Cloud Storage in the Wild: A Broken Ecosystem",
+        "keywords": "End-to-End Encryption (端到端加密) - 加密通信保障数据安全\nCloud Storage Security (云存储安全) - 保护云端数据完整性与机密性\nCryptographic Vulnerabilities (密码学漏洞) - 揭示加密设计中的安全隐患\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "2.5 密码应用技术"
+    },
+    {
+        "title": "Securing Floating-Point Arithmetic for Noise Addition",
+        "keywords": "Floating-Point Arithmetic (浮点运算) - 数值计算基础方法\nNoise Addition (噪声添加) - 隐私保护常用技术\nInformation Leakage (信息泄露) - 安全风险来源\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "Poster: Detecting Ransomware Attacks by Analyzing Replicated Block Snapshots Using Neural Networks",
+        "keywords": "Ransomware Detection (勒索软件检测) - 恶意行为识别与防御\nNeural Networks (神经网络) - 人工智能模型分析\nCloud Antivirus (云杀毒) - 虚拟环境安全防护\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.7 恶意代码分析与防护"
+    },
+    {
+        "title": "Spec-o-Scope: Cache Probing at Cache Speed",
+        "keywords": "Microarchitectural Side Channel (微架构侧信道) - 利用硬件特性泄露敏感信息\nTransient Execution (瞬态执行) - 指令乱序执行引发安全漏洞\nCache Timing Attack (缓存时序攻击) - 通过缓存访问时间推测数据",
+        "pub_year": "2024",
+        "theme_label": "3.2.1 芯片安全"
+    },
+    {
+        "title": "ERASER: Machine Unlearning in MLaaS via an Inference Serving-Aware Approach",
+        "keywords": "Machine Unlearning (机器遗忘) - 模型数据删除技术\nInference Service Obsolescence (推理服务过时) - 影响模型更新问题\nPrivacy Vulnerability (隐私漏洞) - 数据保护风险隐患\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "Detecting Broken Object-Level Authorization Vulnerabilities in Database-Backed Applications",
+        "keywords": "BOLA Vulnerability (越权访问漏洞) - 数据库应用中的权限验证缺陷\nObject-Level Authorization (对象级授权) - 控制数据对象访问的机制\nStatic and SQL Analysis (静态与SQL分析) - 检测漏洞的混合分析方法\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "数据库安全"
+    },
+    {
+        "title": "A General Framework for Data-Use Auditing of ML Models",
+        "keywords": "Data-Use Auditing (数据使用审计) - 审计训练数据来源与使用情况\nMembership Inference (成员推断) - 推断数据是否参与模型训练\nSequential Hypothesis Testing (序贯假设检验) - 基于统计的逐步验证方法",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "PLEAK: Prompt Leaking Attacks against Large Language Model Applications",
+        "keywords": "Prompt Leaking (提示泄露) - 窃取系统提示信息的攻击方法\nLarge Language Models Security (大语言模型安全) - 保障LLM应用的安全机制\nAdversarial Query Optimization (对抗查询优化) - 生成用于攻击的优化查询",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "Poster: The Concept of a System for Automatic Detection and Correction of Vulnerabilities in the Source Code",
+        "keywords": "Vulnerability Detection (漏洞检测) - 源代码安全缺陷识别\nArtificial Intelligence (人工智能) - 提升检测精度与能力\nSource Code Analysis (源代码分析) - 自动化安全审查关键\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.8.1 漏洞挖掘与逆向分析"
+    },
+    {
+        "title": "Metric Differential Privacy at the User-Level via the Earth Mover's Distance",
+        "keywords": "Metric Differential Privacy (度量差分隐私) - 隐私保护的度量方法\nEarth Mover's Distance (地球移动距离) - 数据分布差异度量\nUser-Level Privacy (用户级隐私) - 以用户为粒度的隐私保护",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "Poster: Patching NSEC3-Encloser: The Good, the Bad, and the Ugly",
+        "keywords": "NSEC3 (哈希算法) - DNSSEC安全机制\nDNS resolver (域名解析器) - 处理DNS查询服务\nExhaustion attack (资源耗尽攻击) - 消耗系统计算资源",
+        "pub_year": "2024",
+        "theme_label": "网络与系统安全"
+    },
+    {
+        "title": "Poster: Whether We Are Good Enough to Detect Server-Side Request Forgeries in PHP-native Applications?",
+        "keywords": "Static Taint Analysis (静态污点分析) - 程序分析检测漏洞\nServer-Side Request Forgery (服务器端请求伪造) - Web应用安全威胁\nPHP Application Security (PHP应用安全) - 保障脚本语言安全",
+        "pub_year": "2024",
+        "theme_label": "系统安全测评"
+    },
+    {
+        "title": "HomeRun: High-efficiency Oblivious Message Retrieval, Unrestricted",
+        "keywords": "Oblivious Message Retrieval (不经意消息检索) - 隐私保护通信协议\nBlockchain Privacy (区块链隐私) - 提升链上数据匿名性\nSecure Multi-Server Protocols (安全多服务器协议) - 依赖非共谋服务器实现安全\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "RISiren: Wireless Sensing System Attacks via Metasurface",
+        "keywords": "Wireless Sensing (无线感知) - 利用无线信号感知环境变化\nMetasurface (超构表面) - 可编程材料调控电磁波特性\nBlack-box Attack (黑盒攻击) - 无需内部信息的隐蔽攻击",
+        "pub_year": "2024",
+        "theme_label": "网络与系统安全"
+    },
+    {
+        "title": "BinPRE: Enhancing Field Inference in Binary Analysis Based Protocol Reverse Engineering",
+        "keywords": "Binary Analysis (二进制分析) - 程序逆向与安全研究\nProtocol Reverse Engineering (协议逆向工程) - 协议结构与语义推断\nField Inference (字段推断) - 数据格式与语义识别\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.8.1 漏洞挖掘与逆向分析"
+    },
+    {
+        "title": "PG: Byzantine Fault-Tolerant and Privacy-Preserving Sensor Fusion With Guaranteed Output Delivery",
+        "keywords": "Byzantine Fault Tolerance (拜占庭容错) - 容错机制保障系统可靠性\nPrivacy-Preserving (隐私保护) - 保护数据隐私不被泄露\nSensor Fusion (传感器融合) - 多源传感数据整合分析",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "Elephants Do Not Forget: Differential Privacy with State Continuity for Privacy Budget",
+        "keywords": "Differential Privacy (差分隐私) - 隐私保护数据分析方法\nPrivacy Budget (隐私预算) - 控制隐私泄露总量机制\nTrusted Execution Environment (可信执行环境) - 硬件级安全隔离运行环境",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "Pulsar: Secure Steganography for Diffusion Models",
+        "keywords": "Steganography (隐写术) - 信息隐藏技术\nDiffusion Models (扩散模型) - 图像生成方法\nSecure Communication (安全通信) - 加密传输保障",
+        "pub_year": "2024",
+        "theme_label": "信息隐藏"
+    },
+    {
+        "title": "Poster: Synchronization Concerns of DNS Integrations",
+        "keywords": "DNS Integration (DNS集成) - 域名系统与其他应用的结合\nSynchronization Risks (同步风险) - 注册状态不一致带来的隐患\nIETF Draft Feedback (IETF草案反馈) - 对标准草案提出改进建议",
+        "pub_year": "2024",
+        "theme_label": "网络基础设施安全"
+    },
+    {
+        "title": "Blockchain Bribing Attacks and the Efficacy of Counterincentives",
+        "keywords": "Bribing Attacks (贿赂攻击) - 恶意激励影响行为\nGame Theory (博弈论) - 策略互动决策分析\nProof-of-Stake Blockchain (权益证明区块链) - 基于持币量的共识机制",
+        "pub_year": "2024",
+        "theme_label": "8.1 共识机制及安全"
+    },
+    {
+        "title": "Complete Knowledge: Preventing Encumbrance of Cryptographic Secrets",
+        "keywords": "Complete Knowledge (完全知识) - 证明秘密未被限制使用\nEncumbrance of Secrets (秘密受限使用) - 秘密访问受条件限制\nTrusted Execution Environments (可信执行环境) - 硬件级安全隔离执行环境",
+        "pub_year": "2024",
+        "theme_label": "密码学及应用"
+    },
+    {
+        "title": "RSA-Based Dynamic Accumulator without Hashing into Primes",
+        "keywords": "Cryptographic Accumulator (密码累积器) - 动态集合成员证明机制\nRSA Cryptosystem (RSA密码系统) - 非对称加密与数字签名基础\nProof of Exponentiation (指数证明) - 提升验证效率的关键技术\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "2.1.2 计算数论"
+    },
+    {
+        "title": "Demo: SGCode: A Flexible Prompt-Optimizing System for Secure Generation of Code",
+        "keywords": "Prompt Optimization (提示优化) - 优化模型输入以提升效果\nSecure Code Generation (安全代码生成) - 生成无漏洞的程序代码\nLarge Language Models (大语言模型) - 基于海量数据训练的语言模型",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "Nakamoto Consensus under Bounded Processing Capacity",
+        "keywords": "Nakamoto Consensus (中本聪共识) - 区块链核心共识机制\nBounded Processing Capacity (有界处理能力) - 节点资源限制模型\nTeasing Attack (诱导攻击) - 利用拥堵的新攻击策略",
+        "pub_year": "2024",
+        "theme_label": "区块链及安全"
+    },
+    {
+        "title": "Poster: Advanced Features for Real-Time Website Fingerprinting Attacks on Tor",
+        "keywords": "Website Fingerprinting (网站指纹攻击) - 网络流量识别技术\nReal-Time Attack (实时攻击) - 实战环境下的攻击方法\nFeature Engineering (特征工程) - 提升攻击效率的关键\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.9.1 攻击行为监测发现"
+    },
+    {
+        "title": "Simpler and Faster BFV Bootstrapping for Arbitrary Plaintext Modulus from CKKS",
+        "keywords": "Fully Homomorphic Encryption (全同态加密) - 支持密文直接计算\nBootstrapping (自举技术) - 同态加密中的噪声消除\nCKKS Scheme (CKKS方案) - 近似同态加密方法\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.3 同态加密"
+    },
+    {
+        "title": "Using AI Assistants in Software Development: A Qualitative Study on Security Practices and Concerns",
+        "keywords": "AI辅助开发 (AI-assisted Development) - 利用人工智能工具辅助软件开发\n安全实践 (Security Practices) - 软件开发中的安全保障措施\n代码安全 (Code Security) - 确保代码无安全漏洞的过程\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "Stealing Maggie's Secrets-On the Challenges of IP Theft Through FPGA Reverse Engineering",
+        "keywords": "FPGA Reverse Engineering (现场可编程门阵列逆向工程) - 硬件安全分析技术\nIP Theft (知识产权窃取) - FPGA设计安全威胁\nNetlist Analysis (网表分析) - 逆向还原电路逻辑方法",
+        "pub_year": "2024",
+        "theme_label": "硬件安全"
+    },
+    {
+        "title": "Skipping the Security Side Quests: A Qualitative Study on Security Practices and Challenges in Game Development",
+        "keywords": "Game Development Security (游戏开发安全) - 游戏开发中的安全实践研究\nSecurity Practices (安全实践) - 安全措施在游戏行业的应用\nChallenges and Priorities (挑战与优先级) - 资源限制下的安全决策",
+        "pub_year": "2024",
+        "theme_label": "人的安全行为与管理"
+    },
+    {
+        "title": "Phantom: Untargeted Poisoning Attacks on Semi-Supervised Learning",
+        "keywords": "Poisoning Attacks (投毒攻击) - 数据污染影响模型训练\nSemi-Supervised Learning (半监督学习) - 利用少量标签提升模型性能\nAdversarial Machine Learning (对抗机器学习) - 研究模型安全与攻击防御",
+        "pub_year": "2024",
+        "theme_label": "人工智能安全"
+    },
+    {
+        "title": "The Not-So-Silent Type: Vulnerabilities in Chinese IME Keyboards' Network Security Protocols",
+        "keywords": "Chinese IME Keyboards (中文输入法编辑器键盘) - 云输入法安全研究\nNetwork Security Protocols (网络安全协议) - 协议安全性分析\nKeystroke Privacy (击键隐私) - 敏感数据传输保护",
+        "pub_year": "2024",
+        "theme_label": "网络安全应急响应"
+    },
+    {
+        "title": "Graphiti: Secure Graph Computation Made More Scalable",
+        "keywords": "Secure Graph Computation (安全图计算) - 图结构上隐私保护分析\nSecure Multiparty Computation (安全多方计算) - 多方协同计算不泄露输入\nScalable Privacy-Preserving Computation (可扩展隐私保护计算) - 提升隐私计算性能与规模\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.2 安全多方计算"
+    },
+    {
+        "title": "Fast Two-party Threshold ECDSA with Proactive Security",
+        "keywords": "Threshold ECDSA (门限椭圆曲线数字签名算法) - 分布式签名机制\nProactive Security (主动安全性) - 安全状态周期更新\nPaillier Encryption (帕利尔加密算法) - 同态加密技术应用",
+        "pub_year": "2024",
+        "theme_label": "2.3.2 密码协议设计与分析"
+    },
+    {
+        "title": "Content, Nudges and Incentives: A Study on the Effectiveness and Perception of Embedded Phishing Training",
+        "keywords": "Embedded Phishing Training (嵌入式钓鱼训练) - 通过模拟攻击提升安全意识\nNudges and Incentives (提示与激励) - 影响行为的外部干预方式\nHuman Security Behavior (人的安全行为) - 用户在安全决策中的表现",
+        "pub_year": "2024",
+        "theme_label": "1.6 人的安全行为与管理"
+    },
+    {
+        "title": "Poster: E-Graphs and Equality Saturation for Term-Rewriting in MBA Deobfuscation: An Empirical Study",
+        "keywords": "E-Graphs (等价图) - 用于表达式等价关系的紧凑数据结构\nEquality Saturation (等价饱和) - 基于等价关系的优化与重写方法\nMBA Deobfuscation (混合布尔算术去混淆) - 拆解复杂算术混淆以恢复原始逻辑\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.8.1 漏洞挖掘与逆向分析"
+    },
+    {
+        "title": "SeqMIA: Sequential-Metric Based Membership Inference Attack",
+        "keywords": "Membership Inference Attack (成员推断攻击) - 隐私风险分析\nMetric Sequence Pattern (度量序列模式) - 训练过程特征分析\nAttention-based RNN (基于注意力机制的RNN) - 序列建模与攻击推理\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "FUZZCACHE: Optimizing Web Application Fuzzing Through Software-Based Data Cache",
+        "keywords": "Fuzzing (模糊测试) - 通过输入变异检测漏洞\nSoftware Cache (软件缓存) - 提升重复数据访问效率\nCode Coverage (代码覆盖) - 衡量程序执行路径广度",
+        "pub_year": "2024",
+        "theme_label": "系统安全测评"
+    },
+    {
+        "title": "PowerPeeler: A Precise and General Dynamic Deobfuscation Method for PowerShell Scripts",
+        "keywords": "Dynamic Deobfuscation (动态去混淆) - 动态分析实现代码还原\nAbstract Syntax Tree (抽象语法树) - 程序结构分析基础\nMalicious PowerShell Scripts (恶意PowerShell脚本) - 攻击常用自动化工具\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.7 恶意代码分析与防护"
+    },
+    {
+        "title": "Are We Getting Well-informed? An In-depth Study of Runtime Privacy Notice Practice in Mobile Apps",
+        "keywords": "Runtime Privacy Notice (运行时隐私通知) - 用户数据收集告知实践\nGDPR Compliance (GDPR合规性) - 法规要求与实施差距分析\nMobile App Ecosystem (移动应用生态) - 应用隐私透明度研究\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "Secure Multiparty Computation with Lazy Sharing",
+        "keywords": "Secure Multiparty Computation (安全多方计算) - 多方协同计算保护隐私\nLazy Sharing (懒惰共享) - 降低门限分享开销\nSecret Sharing (秘密共享) - 数据分割保障安全性\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.2 安全多方计算"
+    },
+    {
+        "title": "Poster: Towards Real-Time Intrusion Detection with Explainable AI-Based Detector",
+        "keywords": "Intrusion Detection (入侵检测) - 网络攻击实时识别\nExplainable AI (可解释人工智能) - 提升模型决策透明性\nTree Regularization (树正则化) - 优化模型结构简化",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "BASEMIRROR: Automatic Reverse Engineering of Baseband Commands from Android's Radio Interface Layer",
+        "keywords": "Baseband Security (基带安全) - 保障移动设备通信核心的安全\nReverse Engineering (逆向工程) - 分析软件以揭示其功能与结构\nVulnerability Discovery (漏洞挖掘) - 发现系统潜在安全缺陷",
+        "pub_year": "2024",
+        "theme_label": "3.8.1 漏洞挖掘与逆向分析"
+    },
+    {
+        "title": "Toward Understanding the Security of Plugins in Continuous Integration Services",
+        "keywords": "Continuous Integration Security (持续集成安全) - 研究CI系统中的安全隐患\nPlugin Vulnerabilities (插件漏洞) - 分析插件机制中的安全弱点\nAttack Surface Analysis (攻击面分析) - 评估插件带来的潜在威胁",
+        "pub_year": "2024",
+        "theme_label": "系统软件安全"
+    },
+    {
+        "title": "SafeGen: Mitigating Sexually Explicit Content Generation in Text-to-Image Models",
+        "keywords": "Text-to-Image Models (文本到图像生成模型) - 通过文本生成高质量图像\nSexual Content Mitigation (色情内容缓解) - 阻止生成不当视觉内容\nAdversarial Prompt Resistance (对抗性提示抵抗) - 抵御伪装文本输入攻击",
+        "pub_year": "2024",
+        "theme_label": "信息内容安全"
+    },
+    {
+        "title": "Poster: Few-Shot Inter-Domain Routing Threat Detection with Large-Scale Multi-Modal Pre-Training",
+        "keywords": "Few-shot Learning (小样本学习) - 用少量数据实现高效模型训练\nBGP Threat Detection (BGP威胁检测) - 识别互联网路由协议安全隐患\nMulti-modal Pre-training (多模态预训练) - 融合多种数据提升模型泛化能力\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.9.1 攻击行为监测发现"
+    },
+    {
+        "title": "GPSBuster: Busting out Hidden GPS Trackers via MSoC Electromagnetic Radiations",
+        "keywords": "GPS tracking detection (GPS追踪检测) - 利用侧信道分析识别隐藏设备\nElectromagnetic radiation analysis (电磁辐射分析) - 提取芯片辐射特征信号\nSignal processing techniques (信号处理技术) - 去噪与能量累积提升信噪比\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.2.1 芯片安全"
+    },
+    {
+        "title": "Demo: Enhancing Smart Contract Security Comprehensively through Dynamic Symbolic Execution",
+        "keywords": "Dynamic Symbolic Execution (动态符号执行) - 程序分析与漏洞挖掘技术\nSmart Contract Security (智能合约安全) - 区块链应用安全性保障\nSecurity Monitoring (安全监控) - 实时检测异常行为与交易",
+        "pub_year": "2024",
+        "theme_label": "8.2 智能合约及安全"
+    },
+    {
+        "title": "Analyzing Inference Privacy Risks Through Gradients In Machine Learning",
+        "keywords": "Gradient Inference (梯度推断) - 通过模型梯度推测敏感信息\nPrivacy Risks (隐私风险) - 分析分布式学习中的隐私泄露问题\nDefensive Mechanisms (防御机制) - 研究缓解梯度泄露的防护手段",
+        "pub_year": "2024",
+        "theme_label": "数据安全与隐私保护"
+    },
+    {
+        "title": "fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup",
+        "keywords": "Zero-knowledge Layer 2 Protocols (零知识二层协议) - 提升区块链扩展性\nFinalization Failure Bugs (最终化失败漏洞) - 导致交易无法完成\nFuzzing Testing (模糊测试技术) - 自动检测系统缺陷",
+        "pub_year": "2024",
+        "theme_label": "8.2 智能合约及安全"
+    },
+    {
+        "title": "Internet's Invisible Enemy: Detecting and Measuring Web Cache Poisoning in the Wild",
+        "keywords": "Web Cache Poisoning (网页缓存投毒) - 缓存污染攻击检测与分析\nHCache (高效缓存检测方法) - 大规模漏洞识别技术\nVulnerability Disclosure (漏洞披露机制) - 安全研究与责任披露实践\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.8.1 漏洞挖掘与逆向分析"
+    },
+    {
+        "title": "Smooth Sensitivity for Geo-Privacy",
+        "keywords": "Geo-Privacy (地理隐私) - 基于位置距离的隐私保护\nSmooth Sensitivity (平滑敏感度) - 自适应噪声机制提升效用\nLocal Differential Privacy (本地差分隐私) - 用户端数据扰动保障隐私",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "Leveraging Binary Coverage for Effective Generation Guidance in Kernel Fuzzing",
+        "keywords": "Kernel Fuzzing (内核模糊测试) - 通过输入变异检测内核漏洞\nBinary Coverage Feedback (二进制覆盖率反馈) - 提升 fuzzing 的行为覆盖分析\nExecution Guidance (执行引导) - 指导生成更有效的测试输入",
+        "pub_year": "2024",
+        "theme_label": "系统安全测评"
+    },
+    {
+        "title": "Cross-silo Federated Learning with Record-level Personalized Differential Privacy",
+        "keywords": "Federated Learning (联邦学习) - 分布式机器学习框架\nDifferential Privacy (差分隐私) - 隐私数据保护技术\nPersonalized Privacy (个性化隐私) - 个性化隐私保护需求\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "RIOTFUZZER: Companion App Assisted Remote Fuzzing for Detecting Vulnerabilities in IoT Devices",
+        "keywords": "Blackbox Fuzzing (黑盒模糊测试) - 无需内部信息的漏洞探测方法\nCompanion App (配套应用程序) - 辅助物联网设备操作的应用程序\nSide-channel-guided Fuzzing (侧信道引导模糊测试) - 利用侧信道信息提升测试效率",
+        "pub_year": "2024",
+        "theme_label": "3.8.1 漏洞挖掘与逆向分析"
+    },
+    {
+        "title": "PreCurious: How Innocent Pre-Trained Language Models Turn into Privacy Traps",
+        "keywords": "Pre-trained Language Models (预训练语言模型) - 模型预训练与知识迁移\nMembership Inference Attacks (成员推理攻击) - 推理数据集成员身份\nDifferential Privacy (差分隐私) - 隐私保护与数据统计\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "Poster: Solving the Free-rider Problem in Bittensor",
+        "keywords": "Commitment Scheme (承诺方案) - 用于防止信息复制攻击\nFree-rider Problem (搭便车问题) - 激励机制中的公平性保障\nDecentralized Incentive Mechanism (去中心化激励机制) - 匿名系统中行为激励设计\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "8.1 共识机制及安全"
+    },
+    {
+        "title": "DeepCache: Revisiting Cache Side-Channel Attacks in Deep Neural Networks Executables",
+        "keywords": "Cache Side-Channel Attacks (缓存侧信道攻击) - 利用缓存行为泄露信息进行攻击\nDeep Neural Network Security (深度神经网络安全) - 保护DNN模型架构不被窃取\nCompiler Optimization Analysis (编译器优化分析) - 分析DL编译器优化对安全的影响\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "Securing Cyber-Physical Systems via Advanced Cyber Threat Intelligence Methods",
+        "keywords": "Cyber Threat Intelligence (网络威胁情报) - 威胁信息收集与分析\nCyber-Physical Systems (信息物理系统) - 物理与数字系统融合\nHoneypot Technology (蜜罐技术) - 诱捕攻击行为的技术",
+        "pub_year": "2024",
+        "theme_label": "3.9.1 攻击行为监测发现"
+    },
+    {
+        "title": "NEURAL DEHYDRATION: Effective Erasure of Black-box Watermarks from DNNs with Limited Data",
+        "keywords": "Black-box Watermarks (黑盒水印) - 通过API访问检测模型版权\nNeural Network Robustness (神经网络鲁棒性) - 模型对攻击的抵抗能力\nWatermark Removal Attack (水印移除攻击) - 在有限数据下擦除水印\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "Training Robust ML-based Raw-Binary Malware Detectors in Hours, not Months",
+        "keywords": "Adversarial Training (对抗训练) - 提升模型抗攻击能力\nGreedyBlock-training (贪心块训练) - 快速训练鲁棒检测模型\nRobustness Evaluation (鲁棒性评估) - 高效衡量模型防御性能\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "Test Suites Guided Vulnerability Validation for Node.js Applications",
+        "keywords": "Vulnerability Validation (漏洞验证) - 利用测试验证安全漏洞\nTest Suite Utilization (测试套件利用) - 借助测试生成应用输入\nConcolic Execution (混合金字执行) - 符合约束的程序分析方法\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.8.1 漏洞挖掘与逆向分析"
+    },
+    {
+        "title": "Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models",
+        "keywords": "Denial-of-Service (拒绝服务攻击) - 资源耗尽导致系统不可用\nBlockchain Resource Model (区块链资源模型) - 资源分配与费用机制设计\nAutomated Vulnerability Discovery (自动化漏洞发现) - 程序分析挖掘系统弱点",
+        "pub_year": "2024",
+        "theme_label": "8.2 智能合约及安全"
+    },
+    {
+        "title": "Faster FHE-Based Single-Server Private Information Retrieval",
+        "keywords": "Fully Homomorphic Encryption (全同态加密) - 支持密文直接计算\nPrivate Information Retrieval (私有信息检索) - 用户隐私保护查询\nEfficient Computation Optimization (高效计算优化) - 提升系统运行效率\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.3 同态加密"
+    },
+    {
+        "title": "TREC: APT Tactic / Technique Recognition via Few-Shot Provenance Subgraph Learning",
+        "keywords": "APT攻击分析 (APT 攻击分析) - 分析高级持续性威胁的攻击模式\n图神经网络 (图神经网络) - 利用图结构进行深度学习\n少样本学习 (少样本学习) - 小样本条件下模型训练方法\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.9.2 攻击行为关联研判"
+    },
+    {
+        "title": "Prompt Fuzzing for Fuzz Driver Generation",
+        "keywords": "Prompt Fuzzing (提示模糊测试) - 利用提示生成模糊驱动程序\nFuzz Driver Generation (模糊驱动生成) - 自动生成测试程序提高覆盖率\nCoverage-Guided Mutation (覆盖引导变异) - 基于覆盖率优化变异策略",
+        "pub_year": "2024",
+        "theme_label": "系统安全测评"
+    },
+    {
+        "title": "Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense",
+        "keywords": "Horizontal Class Backdoor (水平类后门) - 利用无关特征触发后门攻击\nBackdoor Defense Evasion (后门防御绕过) - 绕过现有防御机制检测\nDeep Learning Security (深度学习安全) - 研究模型安全性与攻击防御",
+        "pub_year": "2024",
+        "theme_label": "人工智能安全"
+    },
+    {
+        "title": "SUB-PLAY: Adversarial Policies against Partially Observed Multi-Agent Reinforcement Learning Systems",
+        "keywords": "Adversarial Policies (对抗策略) - 恶意干扰强化学习策略\nMulti-Agent Reinforcement Learning (多智能体强化学习) - 多主体协同决策学习\nPartial Observability (部分可观测性) - 信息不完全的竞争环境",
+        "pub_year": "2024",
+        "theme_label": "人工智能对抗"
+    },
+    {
+        "title": "Breaching Security Keys without Root: FIDO2 Deception Attacks via Overlays exploiting Limited Display Authenticators",
+        "keywords": "FIDO2 Protocol (FIDO2协议) - 开放认证标准协议\nOverlay Attack (覆盖攻击) - 屏幕伪造欺骗手段\nLimited Display Authenticator (有限显示验证器) - 硬件交互界面限制",
+        "pub_year": "2024",
+        "theme_label": "人的安全行为与管理"
+    },
+    {
+        "title": "Practical Key-Extraction Attacks in Leading MPC Wallets",
+        "keywords": "Multi-Party Computation (安全多方计算) - 隐私保护的分布式计算协议\nThreshold-ECDSA (门限椭圆曲线数字签名算法) - 多方协作生成数字签名\nKey-Extraction Attack (密钥提取攻击) - 通过协议漏洞窃取加密密钥\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.2 安全多方计算"
+    },
+    {
+        "title": "Poster: Unmasking Label Errors: A need for Robust Cybersecurity Benchmarks",
+        "keywords": "Label Errors (标签错误) - 数据标注质量问题\nCybersecurity Benchmarks (网络安全基准测试) - 安全模型评估标准\nMachine Learning Evaluation (机器学习评估) - 模型性能测试分析\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "Interactive Multi-Credential Authentication",
+        "keywords": "Interactive Authentication (交互式认证) - 多轮交互验证身份\nMulti-Credential Management (多凭证管理) - 管理多种认证凭据\nSecurity Mechanism Profiling (安全机制画像) - 分析机制安全性场景",
+        "pub_year": "2024",
+        "theme_label": "身份认证与管理"
+    },
+    {
+        "title": "Reconstructing with Even Less: Amplifying Leakage and Drawing Graphs",
+        "keywords": "Leakage-abuse Attack (泄漏滥用攻击) - 利用访问模式泄露重建数据库\nDatabase Reconstruction (数据库重建) - 通过查询模式推断数据内容\nGraph Drawing Techniques (图绘制技术) - 借助图形布局辅助数据分析",
+        "pub_year": "2024",
+        "theme_label": "选定的主题标签名称"
+    },
+    {
+        "title": "POSTER: Security and Privacy Heterogeneous Environment for Reproducible Experimentation (SPHERE)",
+        "keywords": "Reproducible Research (可重复性研究) - 科研结果验证与复现\nHeterogeneous Infrastructure (异构基础设施) - 多样化资源集成环境\nCybersecurity Experimentation (网络安全实验) - 安全研究测试平台",
+        "pub_year": "2024",
+        "theme_label": "网络与系统安全"
+    },
+    {
+        "title": "Poster: In-switch Defense against DNS Amplification DDoS Attacks",
+        "keywords": "Amplification DDoS Attacks (放大DDoS攻击) - 利用协议漏洞进行流量放大的攻击方式\nProgrammable Switching (可编程交换) - 通过灵活数据面实现高效网络处理\nSequence Analysis (序列分析) - 分析数据包序列以检测异常行为\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.9 攻击防御"
+    },
+    {
+        "title": "Arke: Scalable and Byzantine Fault Tolerant Privacy-Preserving Contact Discovery",
+        "keywords": "Privacy-Preserving Contact Discovery (隐私保护联系人发现) - 基于密码学的匿名通信机制\nByzantine Fault Tolerance (拜占庭容错) - 分布式系统中抵御恶意节点攻击的能力\nScalable Distributed Architecture (可扩展分布式架构) - 支持大规模部署的去中心化系统设计\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "Safeslab: Mitigating Use-After-Free Vulnerabilities via Memory Protection Keys",
+        "keywords": "Use-After-Free Mitigation (悬垂指针缓解) - 防止访问已释放内存\nMemory Protection Keys (内存保护键) - 硬件辅助内存权限控制\nHeap Hardening (堆加固技术) - 提升堆内存安全性",
+        "pub_year": "2024",
+        "theme_label": "系统软件安全"
+    },
+    {
+        "title": "SpecMon: Modular Black-Box Runtime Monitoring of Security Protocols",
+        "keywords": "Runtime Monitoring (运行时监控) - 实时检测协议执行合规性\nFormal Specification Compliance (形式化规范符合性) - 确保实现与理论模型一致\nBlack-Box Instrumentation (黑盒插桩) - 无需源码的动态监测技术",
+        "pub_year": "2024",
+        "theme_label": "网络与系统安全"
+    },
+    {
+        "title": "Asynchronous Authentication",
+        "keywords": "Asynchronous Authentication (异步认证) - 异步环境下身份验证机制\nCredential Fault Probability (凭证故障概率) - 凭证丢失或泄露的可能性\nOptimal Mechanism Design (最优机制设计) - 寻找最高成功率的认证方案\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "5.7 电子支付安全"
+    },
+    {
+        "title": "Helium: Scalable MPC among Lightweight Participants and under Churn",
+        "keywords": "Secure Multiparty Computation (安全多方计算) - 多方协同隐私保护\nHomomorphic Encryption (同态加密) - 加密数据直接运算\nNetwork Churn Tolerance (网络动态容错) - 支持节点频繁变动\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.2 安全多方计算"
+    },
+    {
+        "title": "Poster: Multiparty Private Set Intersection from Multiparty Homomorphic Encryption",
+        "keywords": "Multiparty Private Set Intersection (多方私有集合交集) - 隐私保护下的集合交集计算\nHomomorphic Encryption (同态加密) - 支持密文计算的加密方法\nSecure Multiparty Computation (安全多方计算) - 多方协同计算不泄露输入数据",
+        "pub_year": "2024",
+        "theme_label": "6.3 同态加密"
+    },
+    {
+        "title": "Characterizing and Mitigating Phishing Attacks at ccTLD Scale",
+        "keywords": "Phishing Mitigation (网络钓鱼缓解) - 减少网络钓鱼攻击影响\nccTLD Policy Analysis (国家顶级域政策分析) - 评估域名管理策略\nLongitudinal Attack Study (纵向攻击研究) - 长期分析攻击模式\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.9 攻击防御"
+    },
+    {
+        "title": "PromSec: Prompt Optimization for Secure Generation of Functional Source Code with Large Language Models (LLMs)",
+        "keywords": "Prompt优化 (提示优化) - 优化生成安全代码的提示\n代码安全性分析 (代码安全性分析) - 检测和修复代码漏洞\n生成对抗网络应用 (生成对抗网络应用) - 利用GNN提升代码质量",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "Poster: End-to-End Privacy-Preserving Vertical Federated Learning using Private Cross-Organizational Data Collaboration",
+        "keywords": "Federated Learning (联邦学习) - 分布式隐私保护机器学习\nDifferential Privacy (差分隐私) - 数据隐私保护形式化标准\nPrivate Set Intersection Cardinality (私有集合交集基数) - 跨组织数据协同隐私计算\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "Efficient Secret Sharing for Large-Scale Applications",
+        "keywords": "Ramp Secret Sharing (阶阈秘密共享) - 通过阈值控制秘密重构\nEfficient Reconstruction (高效重构) - 提升秘密恢复计算效率\nVerifiable Secret Sharing (可验证秘密共享) - 验证分享一致性",
+        "pub_year": "2024",
+        "theme_label": "密码学及应用"
+    },
+    {
+        "title": "S-BDT: Distributed Differentially Private Boosted Decision Trees",
+        "keywords": "Differential Privacy (差分隐私) - 隐私保护机器学习\nBoosted Decision Trees (提升决策树) - 集成学习方法\nDistributed Learning (分布式学习) - 多节点协同训练模型\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "Toss a Fault to BPFCHECKER: Revealing Implementation Flaws for eBPF runtimes with Differential Fuzzing",
+        "keywords": "Differential Fuzzing (差分模糊测试) - 基于差异的程序测试方法\neBPF Runtime Security (eBPF运行时安全) - 保障eBPF执行环境安全\nImplementation Flaw Detection (实现缺陷检测) - 发现系统实现中的逻辑错误",
+        "pub_year": "2024",
+        "theme_label": "漏洞挖掘与逆向分析"
+    },
+    {
+        "title": "Release the Hounds! Automated Inference and Empirical Security Evaluation of Field-Deployed PLCs Using Active Network Data",
+        "keywords": "PLC Device Discovery (PLC设备发现) - 自动化识别工业控制设备\nCritical Vulnerability Exposure (关键漏洞暴露) - 检测公开设备的安全风险\nIndustrial Control Systems Security (工业控制系统安全) - 保障ICS设备网络安全\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "9.1 工业控制系统及安全"
+    },
+    {
+        "title": "OctopusTaint: Advanced Data Flow Analysis for Detecting Taint-Based Vulnerabilities in IoT/IIoT Firmware",
+        "keywords": "Taint Analysis (污点分析) - 检测数据泄露路径\nStatic Analysis (静态分析) - 不运行代码分析漏洞\nIoT/IIoT Security (物联网/工业物联网安全) - 保障智能设备系统",
+        "pub_year": "2024",
+        "theme_label": "3.8.1 漏洞挖掘与逆向分析"
+    },
+    {
+        "title": "Fuzz to the Future: Uncovering Occluded Future Vulnerabilities via Robust Fuzzing",
+        "keywords": "Fuzzing (模糊测试) - 动态测试技术\nOccluded Vulnerabilities (隐藏漏洞) - 被掩盖的潜在漏洞\nBinary Patching (二进制修补) - 修改程序修复缺陷",
+        "pub_year": "2024",
+        "theme_label": "系统安全测评"
+    },
+    {
+        "title": "A Framework for Differential Privacy Against Timing Attacks",
+        "keywords": "Differential Privacy (差分隐私) - 隐私保护数据发布\nTiming Attacks (时序攻击) - 通过运行时间分析获取信息\nPrivacy-Preserving Computation (隐私保护计算) - 在计算过程中保护数据隐私",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "Cross-Core Interrupt Detection: Exploiting User and Virtualized IPIs",
+        "keywords": "IPI Side Channel (IPI侧信道) - 利用中断时序泄露信息\nCross-Core Interrupt (跨核中断) - 多核间通信与监控机制\nHardware Virtualization Security (硬件虚拟化安全) - 保障虚拟环境下的硬件交互安全\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.2 硬件安全"
+    },
+    {
+        "title": "Understanding and Addressing Online Tracking: Online Privacy's Regulatory Turn",
+        "keywords": "Online Tracking (在线跟踪) - 网络用户行为监控分析\nPrivacy Regulation (隐私监管) - 隐私法律与合规研究\nMeasurement Study (测量研究) - 实证分析与法规评估",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "Simple and Practical Amortized Sublinear Private Information Retrieval using Dummy Subsets",
+        "keywords": "Private Information Retrieval (私有信息检索) - 隐私保护的数据查询技术\nAmortized Efficiency (分摊效率) - 降低多次操作的平均开销\nDummy Subsets (虚拟子集) - 用于掩盖真实查询的混淆集合",
+        "pub_year": "2024",
+        "theme_label": "数据安全与隐私保护"
+    },
+    {
+        "title": "ISABELLA: Improving Structures of Attribute-Based Encryption Leveraging Linear Algebra",
+        "keywords": "Attribute-Based Encryption (基于属性的加密) - 访问控制加密技术\nPair Encodings (对编码) - 安全证明核心工具\nMulti-Authority Support (多权威支持) - 多机构协同加密机制",
+        "pub_year": "2024",
+        "theme_label": "密码学及应用"
+    },
+    {
+        "title": "Hekaton: Horizontally-Scalable zkSNARKs Via Proof Aggregation",
+        "keywords": "zkSNARKs (零知识简洁非交互式证明) - 隐私保护验证技术\nProof Aggregation (证明聚合) - 分布式证明合成方法\nHorizontal Scalability (水平扩展性) - 并行计算提升效率",
+        "pub_year": "2024",
+        "theme_label": "密码学及应用"
+    },
+    {
+        "title": "AutoPatch: Automated Generation of Hotpatches for Real-Time Embedded Devices",
+        "keywords": "Hotpatching (热补丁) - 实时修复漏洞技术\nStatic Analysis (静态分析) - 分析代码不运行程序\nEmbedded System Security (嵌入式系统安全) - 保护关键设备安全",
+        "pub_year": "2024",
+        "theme_label": "嵌入式系统安全"
+    },
+    {
+        "title": "Employees' Attitudes towards Phishing Simulations: It's like when a child reaches onto the hot hob",
+        "keywords": "Phishing Simulations (网络钓鱼模拟) - 模拟攻击提升安全意识\nEmployee Attitudes (员工态度) - 员工对安全措施的看法\nSecurity Awareness Training (安全意识培训) - 教育员工识别网络安全威胁",
+        "pub_year": "2024",
+        "theme_label": "1.4 测绘理论、安全治理与策略"
+    },
+    {
+        "title": "Poster: A Multi-step Approach for Classification of Malware Samples",
+        "keywords": "Malware Classification (恶意代码分类) - 基于特征识别恶意程序\nMachine Learning (机器学习) - 数据驱动自动分析决策\nHybrid Analysis (混合分析方法) - 融合多源信息提升精度\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.7 恶意代码分析与防护"
+    },
+    {
+        "title": "FOX: Coverage-guided Fuzzing as Online Stochastic Control",
+        "keywords": "Coverage-guided Fuzzing (覆盖引导模糊测试) - 基于覆盖率引导的漏洞挖掘方法\nOnline Stochastic Control (在线随机控制) - 用于动态决策的控制理论方法\nBranch Distance Metrics (分支距离度量) - 衡量程序路径接近目标分支的程度",
+        "pub_year": "2024",
+        "theme_label": "3.8.1 漏洞挖掘与逆向分析"
+    },
+    {
+        "title": "Do Anything Now: Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models",
+        "keywords": "Jailbreak Prompt (越狱提示) - 绕过模型安全限制\nLarge Language Models (大语言模型) - 生成式AI安全研究\nAdversarial Attack (对抗攻击) - 恶意诱导模型输出\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "Optimization-based Prompt Injection Attack to LLM-as-a-Judge",
+        "keywords": "Prompt Injection Attack (提示注入攻击) - 利用精心设计的输入误导模型行为\nLLM-as-a-Judge (作为裁判的大型语言模型) - 用于响应选择的AI评估机制\nOptimization-based Attack (基于优化的攻击) - 通过优化算法生成对抗性输入",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "Poster: Context-Based Effective Password Detection in Plaintext",
+        "keywords": "Plaintext Password Detection (明文密码检测) - 检测存储在系统中的未加密密码\nContext-Based Analysis (基于上下文的分析) - 利用上下文信息提升检测准确性\nOn-the-Fly Authentication (实时身份验证) - 访问时动态验证用户身份\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.8.2 系统安全测评"
+    },
+    {
+        "title": "Different Victims, Same Layout: Email Visual Similarity Detection for Enhanced Email Protection",
+        "keywords": "Email Visual Similarity Detection (电子邮件视觉相似性检测) - 基于视觉识别垃圾邮件\nThreat Actor Reuse (威胁行为者复用) - 复用邮件套件规避检测\nEnhanced Email Protection (增强电子邮件防护) - 提升邮件防御系统能力\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.9 攻击防御"
+    },
+    {
+        "title": "Poster: Analyzing and Correcting Inaccurate CVE-CWE Mappings in the National Vulnerability Database",
+        "keywords": "CVE-CWE Mapping (CVE-CWE映射) - 漏洞与弱点关联分析\nKnowledge Graphs (知识图谱) - 结构化信息推理技术\nAutomated Correction (自动修正) - 自动修复映射错误",
+        "pub_year": "2024",
+        "theme_label": "7.5 知识图谱"
+    },
+    {
+        "title": "Interstellar: Fully Partitioned and Efficient Security Monitoring Hardware Near a Processor Core for Protecting Systems against Attacks on Privileged Software",
+        "keywords": "Security Monitoring Hardware (安全监控硬件) - 硬件级实时安全检测\nTrusted Execution Environment (可信执行环境) - 保障关键代码隔离运行\nFinite-State Machine Design (有限状态机设计) - 快速识别阻断攻击行为\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.2 硬件安全"
+    },
+    {
+        "title": "LUNA: Quasi-Optimally Succinct Designated-Verifier Zero-Knowledge Arguments from Lattices",
+        "keywords": "Lattice-based Cryptography (基于格的密码学) - 格上构造安全协议\nZero-Knowledge Proofs (零知识证明) - 隐私保护验证技术\nHomomorphic Encryption (同态加密) - 支持密文计算加密\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "2.1.3 其他"
+    },
+    {
+        "title": "QueryCheetah: Fast Automated Discovery of Attribute Inference Attacks Against Query-Based Systems",
+        "keywords": "Attribute Inference Attack (属性推理攻击) - 针对查询系统的隐私推断方法\nAutomated Attack Discovery (自动化攻击发现) - 提升攻击挖掘效率的技术\nQuery-based Systems (基于查询的系统) - 用于数据共享的私有接口机制",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "zkLLM: Zero Knowledge Proofs for Large Language Models",
+        "keywords": "Zero-Knowledge Proof (零知识证明) - 隐私保护的密码学验证方法\nLarge Language Models (大语言模型) - 规模庞大的自然语言处理模型\nVerifiable Computation (可验证计算) - 确保计算结果正确性的技术",
+        "pub_year": "2024",
+        "theme_label": "密码学及应用"
+    },
+    {
+        "title": "DoubleUp Roll: Double-spending in Arbitrum by Rolling It Back",
+        "keywords": "Double Spending (双重支付攻击) - 区块链交易欺诈手段\nOptimistic Rollup (乐观汇总协议) - 二层区块链扩展方案\nSmart Contract Security (智能合约安全) - 合约漏洞与防护研究",
+        "pub_year": "2024",
+        "theme_label": "区块链及安全"
+    },
+    {
+        "title": "Samplable Anonymous Aggregation for Private Federated Data Analysis",
+        "keywords": "Anonymous Aggregation (匿名聚合) - 隐私保护下的数据汇总\nFederated Learning (联邦学习) - 分布式机器学习框架\nDifferential Privacy (差分隐私) - 数据统计中的隐私保护机制\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "Batch Range Proof: How to Make Threshold ECDSA More Efficient",
+        "keywords": "Threshold ECDSA (门限椭圆曲线数字签名算法) - 用于多方安全协作签名\nHomomorphic Encryption (同态加密) - 支持密文计算的加密方法\nRange Proof (范围证明) - 验证数值在指定区间的技术\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "2.5 密码应用技术"
+    },
+    {
+        "title": "GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models",
+        "keywords": "Gender Bias Mitigation (性别偏见缓解) - 缓解语言模型中的性别偏见\nBenchmarking (基准测试) - 构建公平评估性别偏见的测试标准\nNatural Language Processing Fairness (自然语言处理公平性) - 提升语言模型生成结果的性别公平性",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "DPad-HE: Towards Hardware-friendly Homomorphic Evaluation using 4-Directional Manipulation",
+        "keywords": "Homomorphic Encryption (同态加密) - 支持密文计算\nModule Learning with Errors (模学习误差) - 硬件友好加密\nGadget Decomposition Manipulation (辅助分解操作) - 优化密钥转换\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.3 同态加密"
+    },
+    {
+        "title": "ERACAN: Defending Against an Emerging CAN Threat Model",
+        "keywords": "Controller Area Network (控制器局域网) - 车载通信协议安全\nThreat Model (威胁模型) - 安全防护设计依据\nAttack Detection and Defense (攻击检测与防御) - 实时安全防护机制",
+        "pub_year": "2024",
+        "theme_label": "网络与系统安全"
+    },
+    {
+        "title": "Atomic and Fair Data Exchange via Blockchain",
+        "keywords": "Fair Data Exchange (公平数据交换) - 数据与支付原子性互换\nVerifiable Encryption (可验证加密) - 加密数据正确性可验证\nBlockchain Protocol (区块链协议) - 链上原子性执行机制\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "8.2 智能合约及安全"
+    },
+    {
+        "title": "Poster: Security of Login Interfaces in Modern Organizations",
+        "keywords": "Login Interface Security (登录界面安全) - 研究登录页面的安全性问题\nVulnerability Analysis (漏洞分析) - 分析系统中的安全隐患与缺陷\nAccess Control Implementation (访问控制实现) - 控制用户对资源的访问权限\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "5.6 身份认证与管理"
+    },
+    {
+        "title": "Data Poisoning Attacks to Locally Differentially Private Frequent Itemset Mining Protocols",
+        "keywords": "Data Poisoning Attack (数据投毒攻击) - 恶意操纵训练数据以破坏模型\nLocal Differential Privacy (本地差分隐私) - 保护用户隐私的统计学习机制\nFrequent Itemset Mining (频繁项集挖掘) - 数据分析中的常见模式发现方法\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "Distributed PIR: Scaling Private Messaging via the Users' Machines",
+        "keywords": "Distributed PIR (分布式私有信息检索) - 基于客户端协作的隐私查询\nMetadata privacy (元数据隐私) - 保护通信行为不被窥探\nScalable messaging system (可扩展消息系统) - 提升私密通信性能与规模",
+        "pub_year": "2024",
+        "theme_label": "密码学及应用"
+    },
+    {
+        "title": "Staving off the IoT Armageddon",
+        "keywords": "Internet of Things (物联网) - 设备互联与安全挑战\nSecurity Framework (安全框架) - 构建系统防护体系\nThreat Mitigation (威胁缓解) - 降低潜在攻击影响",
+        "pub_year": "2024",
+        "theme_label": "物联网及安全"
+    },
+    {
+        "title": "Crystalor: Recoverable Memory Encryption Mechanism with Optimized Metadata Structure",
+        "keywords": "Recoverable Memory Encryption (可恢复内存加密) - 支持崩溃后数据恢复\nMetadata Optimization (元数据优化) - 减少存储开销提升性能\nProvable Security (可证安全) - 形式化验证确保机制安全\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "2.4 密码工程技术"
+    },
+    {
+        "title": "Crossing Shifted Moats: Replacing Old Bridges with New Tunnels to Confidential Containers",
+        "keywords": "Confidential Containers (机密容器) - 保护云原生工作负载\nControl Interface Security (控制接口安全) - 防范主机侧攻击风险\nTrust Boundary Realignment (信任边界重构) - 调整安全模型对齐\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.5 可信计算与虚拟化安全"
+    },
+    {
+        "title": "Poster: Formalizing Cognitive Biases for Cybersecurity Defenses",
+        "keywords": "Cognitive Biases (认知偏差) - 利用心理倾向影响决策\nFirst-Order Logic (一阶逻辑) - 形式化表达关系与规则\nCybersecurity Defenses (网络安全防御) - 构建对抗攻击的策略",
+        "pub_year": "2024",
+        "theme_label": "1.6 人的安全行为与管理"
+    },
+    {
+        "title": "Functional Adaptor Signatures: Beyond All-or-Nothing Blockchain-based Payments",
+        "keywords": "Functional Adaptor Signatures (功能性适配器签名) - 新型密码学原语\nFunctional Encryption (功能性加密) - 支持函数计算的加密技术\nBlockchain-based Fair Exchange (基于区块链的公平交换) - 利用区块链实现安全交易\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "密码学及应用"
+    },
+    {
+        "title": "Verifiably Correct Lifting of Position-Independent x86-64 Binaries to Symbolized Assembly",
+        "keywords": "Binary Lifting (二进制提升) - 将机器码还原为高级表示\nSymbolic Assembly (符号化汇编) - 保留语义的可重编译代码\nFormal Verification (形式化验证) - 用逻辑证明确保转换正确",
+        "pub_year": "2024",
+        "theme_label": "系统软件安全"
+    },
+    {
+        "title": "Data Independent Order Policy Enforcement: Limitations and Solutions",
+        "keywords": "Order Policy Enforcement (顺序策略执行) - 保障交易排序公平性\nRational Collusion (理性共谋) - 参与者利益驱动的合谋行为\nAutomated Market Makers (自动化做市商) - 去中心化交易的核心机制",
+        "pub_year": "2024",
+        "theme_label": "8.2 智能合约及安全"
+    },
+    {
+        "title": "ProphetFuzz: Fully Automated Prediction and Fuzzing of High-Risk Option Combinations with Only Documentation via Large Language Model",
+        "keywords": "Fuzz Testing (模糊测试) - 自动化漏洞挖掘技术\nLarge Language Model (大语言模型) - 驱动预测高风险选项\nOption Combination Vulnerability (选项组合漏洞) - 软件安全测试难点\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.8.1 漏洞挖掘与逆向分析"
+    },
+    {
+        "title": "CiMSAT: Exploiting SAT Analysis to Attack Compute-in-Memory Architecture Defenses",
+        "keywords": "Compute-in-Memory (存算一体) - 一种融合存储与计算的高效架构\nHardware Obfuscation (硬件混淆) - 利用电路设计隐藏关键信息\nSAT-based Attack (基于SAT的攻击) - 利用布尔可满足性进行逆向解析",
+        "pub_year": "2024",
+        "theme_label": "硬件安全"
+    },
+    {
+        "title": "OSMART: Whitebox Program Option Fuzzing",
+        "keywords": "Option Fuzzing (选项模糊测试) - 系统化测试程序配置组合\nWhitebox Analysis (白盒分析) - 基于程序逻辑的测试方法\nControl and Data Dependency (控制与数据依赖) - 捕捉程序执行逻辑关系",
+        "pub_year": "2024",
+        "theme_label": "3.8.1 漏洞挖掘与逆向分析"
+    },
+    {
+        "title": "Moderator: Moderating Text-to-Image Diffusion Models through Fine-grained Context-based Policies",
+        "keywords": "Policy-based Moderation (基于策略的内容管控) - 基于规则的图像生成限制\nContext-aware Model Editing (上下文感知模型编辑) - 考虑语境的模型修改\nText-to-Image Diffusion Models (文本到图像扩散模型) - 根据文本生成图像的AI模型",
+        "pub_year": "2024",
+        "theme_label": "信息内容安全"
+    },
+    {
+        "title": "RefleXnoop: Passwords Snooping on NLoS Laptops Leveraging Screen-Induced Sound Reflection",
+        "keywords": "Non-line-of-sight Attack (非视线攻击) - 利用间接路径实施安全威胁\nAcoustic Emanation Analysis (声学泄露分析) - 通过声音推断输入信息\nNeural Fusion Model (神经融合模型) - 多源数据融合与特征解析",
+        "pub_year": "2024",
+        "theme_label": "信息泄漏分析"
+    },
+    {
+        "title": "SeMalloc: Semantics-Informed Memory Allocator",
+        "keywords": "SemaType (语义类型) - 捕获堆对象语义信息的类型系统\nMemory Allocation Security (内存分配安全) - 提升内存分配安全性以防御漏洞\nUse-after-free Mitigation (悬垂指针缓解) - 防止悬垂指针漏洞被利用",
+        "pub_year": "2024",
+        "theme_label": "系统软件安全"
+    },
+    {
+        "title": "CANCAL: Towards Real-time and Lightweight Ransomware Detection and Response in Industrial Environments",
+        "keywords": "Ransomware Detection (勒索软件检测) - 实时识别恶意加密行为\nLightweight System (轻量级系统) - 降低资源消耗与高效处理\nIndustrial Security (工业环境安全) - 保障关键基础设施防护",
+        "pub_year": "2024",
+        "theme_label": "恶意代码分析与防护"
+    },
+    {
+        "title": "Curator Attack: When Blackbox Differential Privacy Auditing Loses Its Power",
+        "keywords": "Differential Privacy (差分隐私) - 隐私保护数据分析方法\nBlackbox Auditing (黑盒审计) - 不依赖内部知识的隐私检测\nPrivacy Auditing Tools (隐私审计工具) - 评估隐私保护水平的工具\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "Dye4AI: Assuring Data Boundary on Generative AI Services",
+        "keywords": "Data Boundary Assurance (数据边界保障) - 确保用户数据不被滥用\nGenerative AI Security (生成式人工智能安全) - 保障AI服务的数据安全\nDye Testing System (染色测试系统) - 检测数据流动与模型演化\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "The Invisible Polyjuice Potion: An Effective Physical Adversarial Attack Against Face Recognition",
+        "keywords": "Physical Adversarial Attack (物理对抗攻击) - 利用物理扰动欺骗人脸识别系统\nInfrared Laser Perturbation (红外激光扰动) - 通过激光干扰实现隐蔽攻击\nFace Recognition Security (人脸识别安全) - 研究人脸系统漏洞与防御方法\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "Payout Races and Congested Channels: A Formal Analysis of Security in the Lightning Network",
+        "keywords": "Lightning Network (闪电网络) - 基于比特币的支付通道协议\nFormal Verification (形式化验证) - 用逻辑方法证明系统安全性\nPayment Channel Security (支付通道安全) - 确保链下交易无风险",
+        "pub_year": "2024",
+        "theme_label": "区块链及安全"
+    },
+    {
+        "title": "Exploiting Temporal Vulnerabilities for Unauthorized Access in Intent-Based Networking",
+        "keywords": "Intent-Based Networking (基于意图的网络) - 网络策略自动化配置\nTemporal Vulnerabilities (时间性漏洞) - 规则切换期安全风险\nNetwork Security Enforcement (网络安全执行) - 安全策略动态实施\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.12 网络基础设施安全"
+    },
+    {
+        "title": "Membership Inference Attacks Against In-Context Learning",
+        "keywords": "Membership Inference (成员推断攻击) - 隐私泄露风险分析\nIn-Context Learning (上下文学习) - 基于提示的语言模型适配\nLarge Language Models Privacy (大语言模型隐私) - 模型输出带来的隐私威胁",
+        "pub_year": "2024",
+        "theme_label": "人工智能安全"
+    },
+    {
+        "title": "Verifiable Security Policies for Distributed Systems",
+        "keywords": "Security Policies (安全策略) - 策略规范与验证\nDistributed Systems (分布式系统) - 多节点协同安全\nFormal Verification (形式化验证) - 逻辑证明安全性",
+        "pub_year": "2024",
+        "theme_label": "1.4 测绘理论、安全治理与策略"
+    },
+    {
+        "title": "Provable Security for PKI Schemes",
+        "keywords": "Provable Security (可证安全) - 密码学中形式化证明安全性\nPKI Schemes (公钥基础设施方案) - 管理数字证书与密钥的框架\nCertificate Transparency (证书透明度) - 提高CA可信度的审计机制\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "2.2.3 可证安全"
+    },
+    {
+        "title": "TokenScout: Early Detection of Ethereum Scam Tokens via Temporal Graph Learning",
+        "keywords": "Temporal Graph Learning (时序图学习) - 通过时间动态分析图结构数据\nScam Token Detection (诈骗代币检测) - 识别恶意加密货币交易行为\nContrastive Learning (对比学习) - 通过样本对比提升特征区分能力\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "8.2 智能合约及安全"
+    },
+    {
+        "title": "Legilimens: Practical and Unified Content Moderation for Large Language Model Services",
+        "keywords": "Content Moderation (内容审核) - 审核生成内容的安全合规性\nLarge Language Models (大语言模型) - 用于对话与安全特征提取\nJailbreaking Defense (越狱防御) - 防御对抗性攻击与滥用",
+        "pub_year": "2024",
+        "theme_label": "信息内容安全"
+    },
+    {
+        "title": "Image-Perfect Imperfections: Safety, Bias, and Authenticity in the Shadow of Text-To-Image Model Evolution",
+        "keywords": "Text-to-Image Models (文本到图像模型) - 生成图像的AI技术\nSafety in Generative AI (生成式AI安全性) - 防止有害内容生成\nBias and Authenticity (偏见与真实性) - 图像内容公平性与伪造检测",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "Boosting Practical Control-Flow Integrity with Complete Field Sensitivity and Origin Awareness",
+        "keywords": "Control-Flow Integrity (控制流完整性) - 保障程序执行路径安全\nEquivalence Class Optimization (等价类优化) - 精确分析间接调用目标\nMemory Protection Keys (内存保护键) - 硬件辅助存储安全机制",
+        "pub_year": "2024",
+        "theme_label": "系统软件安全"
+    },
+    {
+        "title": "Accurate and Efficient Recurring Vulnerability Detection for IoT Firmware",
+        "keywords": "Firmware Vulnerability Detection (固件漏洞检测) - 检测物联网固件中的重复漏洞\nExploitation-based Signature (基于利用的签名) - 通过动态利用过程生成漏洞特征\nConcolic Execution (混合执行技术) - 结合符号执行与具体执行提取漏洞特征\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.8.1 漏洞挖掘与逆向分析"
+    },
+    {
+        "title": "Measuring Compliance Implications of Third-party Libraries' Privacy Label Disclosure Guidelines",
+        "keywords": "Privacy Label Compliance (隐私标签合规性) - 检测第三方库数据实践声明的准确性\nThird-party Libraries (第三方库) - 分析其在应用隐私披露中的作用\nAutomated Compliance Checking (自动化合规检查) - 利用工具评估隐私政策与实现一致性",
+        "pub_year": "2024",
+        "theme_label": "系统安全测评"
+    },
+    {
+        "title": "Poster: Cyber Security Economics Model (CYSEM)",
+        "keywords": "Cyber Security Economics (网络安全经济学) - 安全投资决策量化分析\nCyber Threat Intelligence (网络威胁情报) - 威胁数据收集与分析\nFAIR Model (信息风险因子分析模型) - 风险量化评估框架",
+        "pub_year": "2024",
+        "theme_label": "1.4 测绘理论、安全治理与策略"
+    },
+    {
+        "title": "Fuzzing JavaScript Engines with a Graph-based IR",
+        "keywords": "Fuzzing (模糊测试) - 程序缺陷发现技术\nGraph-based IR (基于图的中间表示) - 控制与数据流建模\nSemantic Mutation (语义变异) - 保持程序意义的变异操作",
+        "pub_year": "2024",
+        "theme_label": "系统安全测评"
+    },
+    {
+        "title": "Camel: Communication-Efficient and Maliciously Secure Federated Learning in the Shuffle Model of Differential Privacy",
+        "keywords": "Federated Learning (联邦学习) - 分布式机器学习框架\nDifferential Privacy (差分隐私) - 隐私数据统计分析保护\nSecret Sharing (秘密共享) - 安全多方计算基础技术\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "PhyScout: Detecting Sensor Spoofing Attacks via Spatio-temporal Consistency",
+        "keywords": "Sensor Spoofing Detection (传感器欺骗检测) - 攻击识别与防御\nSpatio-temporal Consistency (时空一致性) - 环境特征时空关联分析\nAutonomous Vehicle Security (自动驾驶车辆安全) - 保障自动驾驶感知安全\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.9.1 攻击行为监测发现"
+    },
+    {
+        "title": "Stealing Trust: Unraveling Blind Message Attacks in Web3 Authentication",
+        "keywords": "Web3 Authentication (Web3 认证) - 用户身份验证机制\nBlind Message Attack (盲消息攻击) - 欺骗用户签名消息\nDynamic Detection Tool (动态检测工具) - 实时识别认证漏洞\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "5.6 身份认证与管理"
+    },
+    {
+        "title": "MaskPrint: Take the Initiative in Fingerprint Protection to Mitigate the Harm of Data Breach",
+        "keywords": "Fingerprint Protection (指纹保护) - 防止指纹信息泄露与滥用\nData Breach Mitigation (数据泄露缓解) - 减少因数据泄露带来的安全风险\nUser-transparent Authentication (用户透明认证) - 用户无感知的安全认证机制\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "SWIDE: A Semantic-aware Detection Engine for Successful Web Injection Attacks",
+        "keywords": "Web Injection Detection (Web注入检测) - 检测Web攻击是否成功\nSemantic Analysis (语义分析) - 分析代码意图与行为\nObfuscation Resilience (混淆抗性) - 突破载荷混淆技术\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.9.1 攻击行为监测发现"
+    },
+    {
+        "title": "UWBAD: Towards Effective and Imperceptible Jamming Attacks Against UWB Ranging Systems with COTS Chips",
+        "keywords": "UWB Ranging (超宽带测距) - 用于精准定位与安全通信\nJamming Attacks (干扰攻击) - 阻断信号实现恶意干扰\nCOTS Chips (商用现成芯片) - 利用普通硬件实施攻击\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.9.3 攻击行为阻断"
+    },
+    {
+        "title": "Distributed Backdoor Attacks on Federated Graph Learning and Certified Defenses",
+        "keywords": "Federated Graph Learning (联邦图学习) - 图数据分布式协同训练\nBackdoor Attack (后门攻击) - 恶意植入隐蔽触发器操控模型输出\nCertified Defense (认证防御) - 提供理论保证的安全防护机制",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "Watch the Rhythm: Breaking Privacy with Accelerometer at the Extremely-Low Sampling Rate of 5Hz",
+        "keywords": "Accelerometer Eavesdropping (加速度计窃听) - 利用低频加速度计进行声音窃取\nRhythm Features (节奏特征) - 通过节奏模式识别语音内容\nPrivacy Threat (隐私威胁) - 极低采样率下的新型隐私攻击",
+        "pub_year": "2024",
+        "theme_label": "信息内容安全"
+    },
+    {
+        "title": "A Comprehensive Analysis of Security Vulnerabilities and Attacks in Satellite Modems",
+        "keywords": "Satellite Modems (卫星调制解调器) - 卫星通信终端设备安全\nSecurity Vulnerabilities (安全漏洞) - 系统薄弱点分析\nAttack Surfaces (攻击面) - 安全威胁暴露区域",
+        "pub_year": "2024",
+        "theme_label": "网络与系统安全"
+    },
+    {
+        "title": "PhySense: Defending Physically Realizable Attacks for Autonomous Systems via Consistency Reasoning",
+        "keywords": "Adversarial Attack Defense (对抗攻击防御) - 防御物理可实现性攻击\nAutonomous Vehicles Security (自动驾驶安全) - 保障自动驾驶系统安全性\nConsistency Reasoning (一致性推理) - 基于物理特性的多模态推理\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "Towards Proactive Protection against Unauthorized Speech Synthesis",
+        "keywords": "Voice Cloaking (语音伪装) - 防止未经授权的语音克隆\nAdversarial Robustness (对抗鲁棒性) - 提升模型抗干扰能力\nSpeech Synthesis Defense (语音合成防御) - 主动防御生成式语音伪造",
+        "pub_year": "2024",
+        "theme_label": "信息内容安全"
+    },
+    {
+        "title": "HyperTheft: Thieving Model Weights from TEE-Shielded Neural Networks via Ciphertext Side Channels",
+        "keywords": "Trusted Execution Environment (可信执行环境) - 安全隔离保护机制\nCiphertext Side Channel (密文侧信道) - 信息泄露分析技术\nNeural Network Weight Recovery (神经网络权重恢复) - 模型窃取攻击方法\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "2.4 密码工程技术"
+    },
+    {
+        "title": "S2NeRF: Privacy-preserving Training Framework for NeRF",
+        "keywords": "Privacy-preserving Training (隐私保护训练) - 保护数据隐私的模型训练方法\nSplit Learning (分割学习) - 客户端-服务器协同训练技术\nNeRF (神经辐射场) - 基于神经网络的3D场景建模\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "The HITCHHIKER's Guide to High-Assurance System Observability Protection with Efficient Permission Switches",
+        "keywords": "High-Assurance System Observability (高保证系统可观测性) - 确保日志安全与完整性\nEfficient Permission Switches (高效权限切换) - 利用硬件机制快速切换保护\nLog Protection Delay Reduction (日志保护延迟降低) - 显著提升实时日志处理性能\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.2 硬件安全"
+    },
+    {
+        "title": "Unbalanced Private Set Union with Reduced Computation and Communication",
+        "keywords": "Private Set Union (私有集合联合) - 隐私保护下的集合运算\nOblivious Key-Value Store (不经意键值存储) - 数据隐私与高效检索结合\nBatch Private Information Retrieval (批量私密信息检索) - 高效获取加密数据",
+        "pub_year": "2024",
+        "theme_label": "2.5 密码应用技术"
+    },
+    {
+        "title": "Inbox Invasion: Exploiting MIME Ambiguities to Evade Email Attachment Detectors",
+        "keywords": "Email Security (电子邮件安全) - 防御邮件中的恶意攻击\nParsing Ambiguity (解析歧义) - 不同解析器处理差异\nMalware Evasion (恶意软件逃逸) - 绕过检测机制的行为\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.7 恶意代码分析与防护"
+    },
+    {
+        "title": "Language-based Sandboxing",
+        "keywords": "Language-based Sandboxing (语言级沙箱) - 通过编程语言机制实现隔离\nComposability (可组合性) - 特性组合增强系统安全性\nWhole-program Properties (全程序属性) - 分析和保障程序整体行为安全",
+        "pub_year": "2024",
+        "theme_label": "网络与系统安全"
+    },
+    {
+        "title": "BadMerging: Backdoor Attacks Against Model Merging",
+        "keywords": "Backdoor Attack (后门攻击) - 恶意植入模型的隐蔽漏洞\nModel Merging (模型融合) - 多模型集成提升性能方法\nAdversarial Security (对抗安全) - 针对AI模型的安全威胁",
+        "pub_year": "2024",
+        "theme_label": "人工智能安全"
+    },
+    {
+        "title": "Membership Inference Attacks against Vision Transformers: Mosaic MixUp Training to the Defense",
+        "keywords": "Membership Inference Attack (成员推理攻击) - 隐私泄露风险分析\nVision Transformer (视觉变换模型) - 图像处理前沿架构\nMosaic MixUp Training (马赛克混合训练) - 防御隐私攻击方法\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "SAFARI: Speech-Associated Facial Authentication for AR/VR Settings via Robust VIbration Signatures",
+        "keywords": "Speech Authentication (语音认证) - 基于语音特征的身份验证\nFacial Vibration Biometrics (面部振动生物特征) - 利用面部肌肉振动提取生物特征\nAR/VR Security (增强现实/虚拟现实安全) - 保障AR/VR设备使用中的安全性",
+        "pub_year": "2024",
+        "theme_label": "身份认证与管理"
+    },
+    {
+        "title": "Multi-User Security of CCM Authenticated Encryption Mode",
+        "keywords": "CCM authenticated encryption mode (CCM认证加密模式) - 用于安全通信的加密方案\nMulti-user security (多用户安全性) - 分析多个用户场景下的密码学安全\nSecurity bound analysis (安全边界分析) - 确定加密方案的安全强度上限\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "2.3.1 密码算法设计与分析"
+    },
+    {
+        "title": "Collapse Like A House of Cards: Hacking Building Automation System Through Fuzzing",
+        "keywords": "Building Automation System (楼宇自动化系统) - 智能建筑核心控制系统\nFuzzing (模糊测试) - 自动化漏洞挖掘技术\nProtocol Security (协议安全) - 通信规范的安全评估\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.8.1 漏洞挖掘与逆向分析"
+    },
+    {
+        "title": "When Compiler Optimizations Meet Symbolic Execution: An Empirical Study",
+        "keywords": "Compiler Optimization (编译器优化) - 提升程序性能的代码转换技术\nDynamic Symbolic Execution (动态符号执行) - 程序分析与漏洞挖掘技术\nBinary Code Analysis (二进制代码分析) - 对可执行文件进行安全与行为分析\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.8.2 系统安全测评"
+    },
+    {
+        "title": "Gopher: High-Precision and Deep-Dive Detection of Cryptographic API Misuse in the Go Ecosystem",
+        "keywords": "Cryptographic API Misuse (密码API误用) - 检测密码接口错误使用\nGopher Detection Framework (Gopher检测框架) - 实现高精度漏洞扫描\nGo Ecosystem Security (Go生态安全) - 保障Go语言环境安全",
+        "pub_year": "2024",
+        "theme_label": "密码学及应用"
+    },
+    {
+        "title": "ArcEDB: An Arbitrary-Precision Encrypted Database via (Amortized) Modular Homomorphic Encryption",
+        "keywords": "Fully Homomorphic Encryption (全同态加密) - 支持密文直接计算\nArbitrary-Precision Computation (任意精度计算) - 提升加密数据精度\nEncrypted Database (加密数据库) - 保障数据查询安全",
+        "pub_year": "2024",
+        "theme_label": "同态加密"
+    },
+    {
+        "title": "MiniCAT: Understanding and Detecting Cross-Page Request Forgery Vulnerabilities in Mini-Programs",
+        "keywords": "MiniCPRF (跨页面请求伪造) - 新型小程序安全漏洞\nMini-program Security (小程序安全) - 研究小程序中的安全隐患\nAutomated Analysis Framework (自动化分析框架) - 提升漏洞检测效率",
+        "pub_year": "2024",
+        "theme_label": "3.8.1 漏洞挖掘与逆向分析"
+    },
+    {
+        "title": "Poster: Enhancing Network Traffic Analysis with Pre-trained Side-channel Feature Imputation",
+        "keywords": "Pre-trained Framework (预训练框架) - 利用预训练提升模型泛化能力\nSide-channel Analysis (侧信道分析) - 通过间接信息推断加密流量特征\nNetwork Traffic Imputation (网络流量补全) - 恢复丢失或碎片化的流量数据\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "4.9 加密流量识别与密态对抗"
+    },
+    {
+        "title": "Compositional Verification of Composite Byzantine Protocols",
+        "keywords": "Compositional Verification (组合验证) - 组合验证方法研究\nByzantine Fault Tolerance (拜占庭容错) - 容错机制与协议设计\nFormal Verification (形式化验证) - 数学证明确保系统正确性\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "3.1 网络与系统安全体系结构"
+    },
+    {
+        "title": "Towards Fine-Grained Webpage Fingerprinting at Scale",
+        "keywords": "Webpage Fingerprinting (网页指纹识别) - 流量分析识别网页内容\nMulti-label Metric Learning (多标签度量学习) - 学习区分多标签特征空间\nEncrypted Traffic Analysis (加密流量分析) - 分析加密通信中的行为模式\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "4.9 加密流量识别与密态对抗"
+    },
+    {
+        "title": "TabularMark: Watermarking Tabular Datasets for Machine Learning",
+        "keywords": "Watermarking (水印技术) - 数据所有权保护\nMachine Learning Utility (机器学习效用) - 保持模型训练性能\nRobustness (鲁棒性) - 抵抗攻击并保留水印\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.4 数字版权保护"
+    },
+    {
+        "title": "KnowGraph: Knowledge-Enabled Anomaly Detection via Logical Reasoning on Graph Data",
+        "keywords": "Graph-based Anomaly Detection (基于图的异常检测) - 利用图结构识别异常模式\nDomain Knowledge Integration (领域知识融合) - 结合专业知识提升模型效果\nLogical Reasoning (逻辑推理) - 基于逻辑规则进行推断判断\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "7.1 人工智能安全"
+    },
+    {
+        "title": "Conan: Distributed Proofs of Compliance for Anonymous Data Collection",
+        "keywords": "Anonymous Data Collection (匿名数据收集) - 匿名传输与合规验证结合\nCompliance Proof (合规证明) - 确保提交数据满足规则\nZero-Knowledge SNARKs (零知识简洁非交互证明) - 高效隐私保护验证技术\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "2.5 密码应用技术"
+    },
+    {
+        "title": "Shortcut: Making MPC-based Collaborative Analytics Efficient on Dynamic Databases",
+        "keywords": "Secure Multi-party Computation (安全多方计算) - 隐私保护计算技术\nDynamic Database (动态数据库) - 支持实时数据更新的数据库\nQuery Optimization (查询优化) - 提升查询效率的方法",
+        "pub_year": "2024",
+        "theme_label": "6.2 安全多方计算"
+    },
+    {
+        "title": "Untangling the Knot: Breaking Access Control in Home Wireless Mesh Networks",
+        "keywords": "Home Wireless Mesh Networks (家庭无线网状网络) - 网络架构与通信安全\nAccess Control Policy Synchronization (访问控制策略同步) - 安全机制与漏洞分析\nDecentralized Authentication (去中心化身份验证) - 节点协作与安全隐患",
+        "pub_year": "2024",
+        "theme_label": "网络与系统安全"
+    },
+    {
+        "title": "Two-Tier Data Packing in RLWE-based Homomorphic Encryption for Secure Federated Learning",
+        "keywords": "Homomorphic Encryption (同态加密) - 支持密文计算的加密技术\nFederated Learning (联邦学习) - 分布式隐私保护机器学习\nRing Learning with Errors (环错误学习) - 基于多项式环的密码学难题\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.3 同态加密"
+    },
+    {
+        "title": "LIFTFUZZ: Validating Binary Lifters through Context-aware Fuzzing with GPT",
+        "keywords": "Binary Lifting (二进制提升) - 提升二进制代码为中间表示\nContext-aware Fuzzing (上下文感知模糊测试) - 基于指令上下文生成测试用例\nAssembly Language Model (汇编语言模型) - 利用模型学习指令交互关系",
+        "pub_year": "2024",
+        "theme_label": "系统安全测评"
+    },
+    {
+        "title": "CrossFire: Fuzzing macOS Cross-XPU Memory on Apple Silicon",
+        "keywords": "CrossFire (交叉火线) - 模糊测试技术\nUnified Memory Architecture (统一内存架构) - 内存共享优化设计\nZero-day Bugs (零日漏洞) - 未公开的安全缺陷",
+        "pub_year": "2024",
+        "theme_label": "系统安全测评"
+    },
+    {
+        "title": "Unveiling Collusion-Based Ad Attribution Laundering Fraud: Detection, Analysis, and Security Implications",
+        "keywords": "Ad Attribution Laundering Fraud (广告归因洗白欺诈) - 欺诈手段跨应用合谋误导广告归属\nCollusion-Based Ad Fraud (基于合谋的广告欺诈) - 多方合作实施广告欺骗行为\nDetection Framework (检测框架) - 用于识别欺诈行为的技术架构",
+        "pub_year": "2024",
+        "theme_label": "攻击防御"
+    },
+    {
+        "title": "Leveraging Storage Semantics to Enhance Data Security and Privacy",
+        "keywords": "Storage Semantics (存储语义) - 存储数据含义与结构分析\nData Security (数据安全) - 保障数据免受未授权访问\nPrivacy Preservation (隐私保护) - 防止敏感信息泄露\n选定的主题标签名称",
+        "pub_year": "2024",
+        "theme_label": "6.1 数据隐私保护"
+    },
+    {
+        "title": "High-Throughput Three-Party DPFs with Applications to ORAM and Digital Currencies",
+        "keywords": "Distributed Point Functions (分布式点函数) - 用于多方安全计算的函数分发技术\nUpdatable DPF (可更新DPF) - 支持动态更新的分布式点函数扩展\nOblivious RAM (ORAM，无意识访问内存) - 实现隐私保护的数据访问机制",
+        "pub_year": "2024",
+        "theme_label": "密码原语和范式"
+    }
+]
