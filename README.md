@@ -81,8 +81,8 @@ python llm4_labels.py  # 处理usenix_papers.json
 ```
 
 ## 注意事项
-API配置：需在llm_labels.py和llm4_labels.py中配置有效的Tongyi API密钥
-路径配置：确保输入文件路径与脚本中的INPUT_PAPERS_FILE保持一致
-模型选择：根据需求选择合适的Qwen版本（qwen-plus或qwen3） 或者修改代码用其他AI
-分类更新：如需扩展分类体系，需同步修改两个目录下的labels.txt
-数据清洗：原始爬虫数据可能需要人工校验作者字段格式
+API配置：需在llm_labels.py和llm4_labels.py中配置有效的Tongyi API密钥  
+路径配置：确保输入文件路径与脚本中的INPUT_PAPERS_FILE保持一致  
+模型选择：根据需求选择合适的Qwen版本（qwen-plus或qwen3） 或者修改代码用其他AI  
+分类更新：如需扩展分类体系，需同步修改两个目录下的labels.txt  
+数据清洗：原始爬虫数据可能需要人工校验作者字段格式  
