@@ -7,7 +7,7 @@
 3. 基于LLM的论文关键词提取与自动分类
 
 ## 文件结构
-
+ ```markdown 
 ├── web_of_science/          # Web of Science数据处理模块  
 │   ├── webofscience_paper_extract_*.py  
 │   └── labels.txt           # 分类体系主文件  
@@ -18,7 +18,7 @@
     ├── *.json               # 原始论文数据  
     ├── *_keywords.json      # 带关键词标注的数据  
     └── *_keywords_only.json # 仅关键词的数据快照  
-
+```
     
 ## 功能模块
 ### 1. 网络爬虫模块
